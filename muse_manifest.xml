@@ -1,12 +1,14 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1511923144756">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1511950486932">
   <folder name="css">
     <file name="site_global.css" crc="3970785832"/>
-    <file name="index.css" crc="4219605859" ref="index"/>
+    <file name="index.css" crc="236949920" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="video1.mp4" crc="4060877054" seo="true" mt="1511919898000"/>
     <file name="videobg.jpg" crc="4191750345" seo="true" mt="1511919020000"/>
-    <file name="video1.webm" crc="511829616" seo="true" mt="1511921548000"/>
+    <file name="video1.mp4" crc="4060877054" seo="true" mt="1511919898000"/>
+    <file name="video1.webm" crc="511165866" seo="true" mt="1511919029000"/>
+    <file name="pattern-dots.png" crc="3802565248" seo="true" mt="1384616692000"/>
+    <file name="pattern-lines.png" crc="337489013" seo="true" mt="1390566942000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -25,18 +27,18 @@
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="mi7.gif" crc="4054250818" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="003-tmb-u19524-fr_2x.jpg" crc="4167110478" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="004-u19502-fr_2x.jpg" crc="165724064" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mi7.gif" crc="4054250818" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2422211.png" crc="3986235749" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="60058220" seo="true" mt="1511923090484" redirect="true"/>
+  <file name="index.html" crc="3899534261" seo="true" mt="1511950410617" redirect="true"/>
 </manifest>
