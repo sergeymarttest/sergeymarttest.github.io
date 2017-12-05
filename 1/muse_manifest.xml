@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1512449974632">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1512450757958">
   <folder name="css">
     <file name="site_global.css" crc="12459194"/>
-    <file name="index.css" crc="362764389" ref="index"/>
+    <file name="index.css" crc="4126080024" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="videobg.jpg" crc="4191750345" seo="true" mt="1511919020000"/>
@@ -41,5 +41,5 @@
     </folder>
     <file name="index.html" crc="3848020494" seo="true" mt="1511966000932" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4095846834" seo="true" mt="1512449958362" redirect="true"/>
+  <file name="index.html" crc="3824612488" seo="true" mt="1512450755711" redirect="true"/>
 </manifest>
