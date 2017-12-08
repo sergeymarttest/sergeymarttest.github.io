@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1512691981998">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1512696257679">
   <folder name="css">
     <file name="site_global.css" crc="93750656"/>
-    <file name="master_a-mastery.css" crc="201999892" ref="index"/>
-    <file name="nomq_preview_master_a-mastery.css" crc="3920842649" ref="index"/>
-    <file name="index.css" crc="296411242" ref="index"/>
-    <file name="nomq_index.css" crc="4257273451" ref="index"/>
+    <file name="master_a-mastery.css" crc="3990622350" ref="index"/>
+    <file name="nomq_preview_master_a-mastery.css" crc="4092413956" ref="index"/>
+    <file name="index.css" crc="4143277166" ref="index"/>
+    <file name="nomq_index.css" crc="188377803" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -55,6 +55,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="website-design-slider-background-stockton.jpg" crc="4219764793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="clouds-2517653_1920.jpg" crc="349537047" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -82,7 +89,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="info2.gif" crc="3925242025" ref="index">
+    <file name="info3.gif" crc="3788475165" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -126,11 +133,13 @@
     <file name="42.png" crc="142186477" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="clouds-2517653_1920-u15848-fr3.jpg" crc="485036396" ref="index"/>
     <file name="info-u26634-fr2.jpg" crc="271927029" ref="index"/>
     <file name="42136x136.png" crc="4283314195" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="clouds-2517653_1920-u15848-fr4.jpg" crc="399631424" ref="index"/>
     <file name="info-u26634-fr3.jpg" crc="297113091" ref="index"/>
   </folder>
-  <file name="index.html" crc="372628516" seo="true" mt="1512691834652" redirect="true"/>
+  <file name="index.html" crc="4030443375" seo="true" mt="1512696066566" redirect="true"/>
 </manifest>
