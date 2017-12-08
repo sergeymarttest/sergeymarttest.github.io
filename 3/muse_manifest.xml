@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1512696257679">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1512697222634">
   <folder name="css">
     <file name="site_global.css" crc="93750656"/>
     <file name="master_a-mastery.css" crc="3990622350" ref="index"/>
     <file name="nomq_preview_master_a-mastery.css" crc="4092413956" ref="index"/>
-    <file name="index.css" crc="4143277166" ref="index"/>
+    <file name="index.css" crc="295410715" ref="index"/>
     <file name="nomq_index.css" crc="188377803" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
@@ -141,5 +141,5 @@
     <file name="clouds-2517653_1920-u15848-fr4.jpg" crc="399631424" ref="index"/>
     <file name="info-u26634-fr3.jpg" crc="297113091" ref="index"/>
   </folder>
-  <file name="index.html" crc="4030443375" seo="true" mt="1512696066566" redirect="true"/>
+  <file name="index.html" crc="379796407" seo="true" mt="1512697189831" redirect="true"/>
 </manifest>
