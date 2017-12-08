@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://sergeymarttest.github.io/index.html</loc>
+    <lastmod>2017-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/sunrise-1959227_1920.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/s4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/s2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/clouds-2517653_1920.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/42207x207.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/42223x224.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/42183x183.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/42.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/42136x136.png</image:loc>
+    </image:image>
+  </url>
+</urlset>

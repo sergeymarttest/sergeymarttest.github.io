@@ -1,0 +1,136 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1512691981998">
+  <folder name="css">
+    <file name="site_global.css" crc="93750656"/>
+    <file name="master_a-mastery.css" crc="201999892" ref="index"/>
+    <file name="nomq_preview_master_a-mastery.css" crc="3920842649" ref="index"/>
+    <file name="index.css" crc="296411242" ref="index"/>
+    <file name="nomq_index.css" crc="4257273451" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u12822.php" crc="4231362428" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="04.png" crc="128698584" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sunrise-1959227_1920.jpg" crc="3849920784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="s4.jpg" crc="4233160036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s2.jpg" crc="313298146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clouds-2517653_1920.jpg" crc="349537047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="04-u6636-fr.png" crc="4093068098" ref="index"/>
+    <file name="2.gif" crc="3773696684" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="42207x207.png" crc="4266364982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="server-2160321.jpg" crc="164886700" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info.jpg" crc="4060419564" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info2.gif" crc="3925242025" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-logo.svg" crc="4021494475" ref="index"/>
+    <file name="instagram-logo_poster_u15963.png" crc="403712727" ref="index"/>
+    <file name="facebook-logo.svg" crc="15706473" ref="index"/>
+    <file name="facebook-logo_poster_u15971.png" crc="52253262" ref="index"/>
+    <file name="twitter-logo-silhouette.svg" crc="314143322" ref="index"/>
+    <file name="twitter-logo-silhouette_poster_u15979.png" crc="211148680" ref="index"/>
+    <file name="logo.png" crc="3989567008" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="42223x224.png" crc="3915601290" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="server-2160321-u14322-fr.jpg" crc="428972828" ref="index"/>
+    <file name="clouds-2517653_1920-u15848-fr.jpg" crc="500914608" ref="index"/>
+    <file name="info-u26634-fr.jpg" crc="11535860" ref="index"/>
+    <file name="close.svg" crc="4211750754" ref="index"/>
+    <file name="close_poster_u7162.png" crc="209832264" ref="index"/>
+    <file name="menu.svg" crc="387706797" ref="index"/>
+    <file name="menu_poster_u7304.png" crc="3915531268" ref="index"/>
+    <file name="instagram-logo-bl.svg" crc="3973378452" ref="index"/>
+    <file name="instagram-logo-bl_poster_u16026.png" crc="3888102514" ref="index"/>
+    <file name="facebook-letter-logo-bl.svg" crc="4063079061" ref="index"/>
+    <file name="facebook-letter-logo-bl_poster_u16034.png" crc="508407847" ref="index"/>
+    <file name="twitter-logo-silhouette-bl.svg" crc="4073457038" ref="index"/>
+    <file name="twitter-logo-silhouette-bl_poster_u16042.png" crc="4015665098" ref="index"/>
+    <file name="42183x183.png" crc="390420970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="server-2160321-u14322-fr2.jpg" crc="3857821375" ref="index"/>
+    <file name="clouds-2517653_1920-u15848-fr2.jpg" crc="410654444" ref="index"/>
+    <file name="42.png" crc="142186477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info-u26634-fr2.jpg" crc="271927029" ref="index"/>
+    <file name="42136x136.png" crc="4283314195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info-u26634-fr3.jpg" crc="297113091" ref="index"/>
+  </folder>
+  <file name="index.html" crc="372628516" seo="true" mt="1512691834652" redirect="true"/>
+</manifest>
