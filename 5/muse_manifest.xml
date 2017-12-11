@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1513014066444">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1513015660942">
   <folder name="css">
     <file name="site_global.css" crc="93750656"/>
     <file name="master_a-mastery.css" crc="302384541" ref="sol2:sol1:index"/>
@@ -7,8 +7,8 @@
     <file name="nomq_sol2.css" crc="229689975" ref="sol2"/>
     <file name="sol1.css" crc="3952444494" ref="sol1"/>
     <file name="nomq_sol1.css" crc="4096423414" ref="sol1"/>
-    <file name="index.css" crc="416025299" ref="index"/>
-    <file name="nomq_index.css" crc="3822560685" ref="index"/>
+    <file name="index.css" crc="3890478201" ref="index"/>
+    <file name="nomq_index.css" crc="4238296630" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -194,10 +194,8 @@
     <file name="b1.jpg" crc="154542436" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="b2.jpg" crc="4108866591" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -214,6 +212,8 @@
     <file name="close_poster_u7162.png" crc="209832264" ref="index"/>
     <file name="timeline4-u30418-fr3.png" crc="408513961" ref="index"/>
     <file name="66-u30314-fr2.png" crc="3791998884" ref="index"/>
+    <file name="b1-u29349-fr3.jpg" crc="84626330" ref="index"/>
+    <file name="b2-u29678-fr3.jpg" crc="4147535945" ref="index"/>
     <file name="66-u30314-fr3.png" crc="477827431" ref="index"/>
     <file name="вставленное изображение 876x836.jpg" crc="325837579" seo="true" ref="sol1">
       <caption webpage="sol1" alt=""/>
@@ -223,7 +223,7 @@
       <caption webpage="sol1" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3903610289" seo="true" mt="1513014023771" redirect="true"/>
+  <file name="index.html" crc="4106468947" seo="true" mt="1513015625716" redirect="true"/>
   <file name="sol1.html" crc="4158879067" seo="true" mt="1513014023771" redirect="true"/>
   <file name="sol2.html" crc="4143774701" seo="true" mt="1513014023771" redirect="true"/>
 </manifest>
