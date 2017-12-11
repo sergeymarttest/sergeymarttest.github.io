@@ -1,0 +1,229 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1513012673454">
+  <folder name="css">
+    <file name="site_global.css" crc="93750656"/>
+    <file name="master_a-mastery.css" crc="302384541" ref="sol2:sol1:index"/>
+    <file name="nomq_preview_master_a-mastery.css" crc="526765690" ref="sol2:sol1:index"/>
+    <file name="sol2.css" crc="191467610" ref="sol2"/>
+    <file name="nomq_sol2.css" crc="4217631979" ref="sol2"/>
+    <file name="sol1.css" crc="384062034" ref="sol1"/>
+    <file name="nomq_sol1.css" crc="4096423414" ref="sol1"/>
+    <file name="index.css" crc="527542436" ref="index"/>
+    <file name="nomq_index.css" crc="3833527570" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sol1:sol2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:sol1:sol2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sol1:sol2"/>
+    <file name="museconfig.js" crc="380897831" ref="index:sol1:sol2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:sol1:sol2"/>
+    <file name="webpro.js" crc="242022427" ref="index:sol1:sol2"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:sol1:sol2"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:sol1:sol2"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:sol1:sol2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u12822.php" crc="4231362428" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:sol1:sol2"/>
+    <file name="require.js" crc="4157109226" ref="index:sol1:sol2"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:sol1:sol2"/>
+    <file name="logo.png" crc="3995389458" seo="true" ref="index:sol1:sol2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+    </file>
+    <file name="04.png" crc="128698584" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sunrise-1959227_1920.jpg" crc="3849920784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s4.jpg" crc="4233160036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s2.jpg" crc="313298146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website-design-slider-background-stockton.jpg" crc="4219764793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clouds-2517653_1920.jpg" crc="349537047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="04-u6636-fr.png" crc="4093068098" ref="index"/>
+    <file name="2.gif" crc="3773696684" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.svg" crc="412594789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_poster_.png" crc="444737050" ref="index"/>
+    <file name="2.svg" crc="3798813314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_poster_.png" crc="426517935" ref="index"/>
+    <file name="3.svg" crc="346725594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_poster_.png" crc="4068847365" ref="index"/>
+    <file name="43.png" crc="283509022" seo="true" ref="index:sol1:sol2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+    </file>
+    <file name="b5-u29982-fr.jpg" crc="3887858599" ref="index"/>
+    <file name="b7-u30086-fr.jpg" crc="131983427" ref="index"/>
+    <file name="timeline4-u30418-fr.png" crc="355032391" ref="index"/>
+    <file name="b1-u29349-fr.jpg" crc="3795501070" ref="index"/>
+    <file name="b2-u29678-fr.jpg" crc="3856959981" ref="index"/>
+    <file name="b3.jpg" crc="3884020199" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66.png" crc="226701073" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-logo.svg" crc="4021494475" ref="index"/>
+    <file name="instagram-logo_poster_u36942.png" crc="403712727" ref="index"/>
+    <file name="facebook-logo.svg" crc="15706473" ref="index"/>
+    <file name="facebook-logo_poster_u36934.png" crc="52253262" ref="index"/>
+    <file name="twitter-logo-silhouette.svg" crc="314143322" ref="index"/>
+    <file name="twitter-logo-silhouette_poster_u36926.png" crc="211148680" ref="index"/>
+    <file name="b5.jpg" crc="340959429" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b7.jpg" crc="458357434" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="timeline4-u30418-fr2.png" crc="239888098" ref="index"/>
+    <file name="b1-u29349-fr2.jpg" crc="283157499" ref="index"/>
+    <file name="b2-u29678-fr2.jpg" crc="36721829" ref="index"/>
+    <file name="b1.jpg" crc="154542436" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b2.jpg" crc="4108866591" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66-u30314-fr.png" crc="4060655576" ref="index"/>
+    <file name="menu.svg" crc="387706797" ref="index"/>
+    <file name="menu_poster_u7304.png" crc="3915531268" ref="index"/>
+    <file name="instagram-logo-bl.svg" crc="3973378452" ref="index"/>
+    <file name="instagram-logo-bl_poster_u16026.png" crc="3888102514" ref="index"/>
+    <file name="facebook-letter-logo-bl.svg" crc="4063079061" ref="index"/>
+    <file name="facebook-letter-logo-bl_poster_u16034.png" crc="508407847" ref="index"/>
+    <file name="twitter-logo-silhouette-bl.svg" crc="4073457038" ref="index"/>
+    <file name="twitter-logo-silhouette-bl_poster_u16042.png" crc="4015665098" ref="index"/>
+    <file name="close.svg" crc="4211750754" ref="index"/>
+    <file name="close_poster_u7162.png" crc="209832264" ref="index"/>
+    <file name="timeline4-u30418-fr3.png" crc="408513961" ref="index"/>
+    <file name="66-u30314-fr2.png" crc="3791998884" ref="index"/>
+    <file name="66-u30314-fr3.png" crc="477827431" ref="index"/>
+    <file name="вставленное изображение 876x836.jpg" crc="325837579" seo="true" ref="sol1">
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3936357109" seo="true" mt="1513012405347" redirect="true"/>
+  <file name="sol1.html" crc="123331374" seo="true" mt="1513009617837" redirect="true"/>
+  <file name="sol2.html" crc="372092792" seo="true" mt="1513009617837" redirect="true"/>
+</manifest>
