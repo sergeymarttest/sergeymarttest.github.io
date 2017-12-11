@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1513015660942">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1513019873842">
   <folder name="css">
     <file name="site_global.css" crc="93750656"/>
-    <file name="master_a-mastery.css" crc="302384541" ref="sol2:sol1:index"/>
+    <file name="master_a-mastery.css" crc="295168562" ref="sol2:sol1:index"/>
     <file name="nomq_preview_master_a-mastery.css" crc="526765690" ref="sol2:sol1:index"/>
-    <file name="sol2.css" crc="3828812013" ref="sol2"/>
-    <file name="nomq_sol2.css" crc="229689975" ref="sol2"/>
-    <file name="sol1.css" crc="3952444494" ref="sol1"/>
-    <file name="nomq_sol1.css" crc="4096423414" ref="sol1"/>
-    <file name="index.css" crc="3890478201" ref="index"/>
-    <file name="nomq_index.css" crc="4238296630" ref="index"/>
+    <file name="sol2.css" crc="67193025" ref="sol2"/>
+    <file name="nomq_sol2.css" crc="213462121" ref="sol2"/>
+    <file name="sol1.css" crc="502716317" ref="sol1"/>
+    <file name="nomq_sol1.css" crc="4289946888" ref="sol1"/>
+    <file name="index.css" crc="320980740" ref="index"/>
+    <file name="nomq_index.css" crc="4016256419" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -30,31 +30,6 @@
     <file name="require.js" crc="4157109226" ref="index:sol1:sol2"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:sol1:sol2"/>
-    <file name="logo.png" crc="3995389458" seo="true" ref="index:sol1:sol2">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="sol2" alt=""/>
-      <caption webpage="sol2" alt=""/>
-      <caption webpage="sol2" alt=""/>
-      <caption webpage="sol2" alt=""/>
-      <caption webpage="sol2" alt=""/>
-      <caption webpage="sol1" alt=""/>
-      <caption webpage="sol1" alt=""/>
-      <caption webpage="sol1" alt=""/>
-      <caption webpage="sol1" alt=""/>
-      <caption webpage="sol1" alt=""/>
-    </file>
     <file name="04.png" crc="128698584" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -71,6 +46,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index:sol1:sol2"/>
     <file name="s4.jpg" crc="4233160036" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -152,6 +128,8 @@
       <caption webpage="sol2" alt=""/>
       <caption webpage="sol2" alt=""/>
       <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol1" alt=""/>
       <caption webpage="sol1" alt=""/>
       <caption webpage="sol1" alt=""/>
       <caption webpage="sol1" alt=""/>
@@ -175,6 +153,32 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="3995389458" seo="true" ref="index:sol1:sol2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
     </file>
     <file name="instagram-logo.svg" crc="4021494475" ref="index"/>
     <file name="instagram-logo_poster_u36942.png" crc="403712727" ref="index"/>
@@ -200,6 +204,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="66-u30314-fr.png" crc="4060655576" ref="index"/>
+    <file name="timeline4-u30418-fr3.png" crc="408513961" ref="index"/>
+    <file name="66-u30314-fr2.png" crc="3791998884" ref="index"/>
     <file name="menu.svg" crc="387706797" ref="index"/>
     <file name="menu_poster_u7304.png" crc="3915531268" ref="index"/>
     <file name="instagram-logo-bl.svg" crc="3973378452" ref="index"/>
@@ -210,8 +216,6 @@
     <file name="twitter-logo-silhouette-bl_poster_u16042.png" crc="4015665098" ref="index"/>
     <file name="close.svg" crc="4211750754" ref="index"/>
     <file name="close_poster_u7162.png" crc="209832264" ref="index"/>
-    <file name="timeline4-u30418-fr3.png" crc="408513961" ref="index"/>
-    <file name="66-u30314-fr2.png" crc="3791998884" ref="index"/>
     <file name="b1-u29349-fr3.jpg" crc="84626330" ref="index"/>
     <file name="b2-u29678-fr3.jpg" crc="4147535945" ref="index"/>
     <file name="66-u30314-fr3.png" crc="477827431" ref="index"/>
@@ -221,9 +225,10 @@
       <caption webpage="sol1" alt=""/>
       <caption webpage="sol1" alt=""/>
       <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4106468947" seo="true" mt="1513015625716" redirect="true"/>
-  <file name="sol1.html" crc="4158879067" seo="true" mt="1513014023771" redirect="true"/>
-  <file name="sol2.html" crc="4143774701" seo="true" mt="1513014023771" redirect="true"/>
+  <file name="index.html" crc="148263536" seo="true" mt="1513019653898" redirect="true"/>
+  <file name="sol1.html" crc="4144206831" seo="true" mt="1513019653819" redirect="true"/>
+  <file name="sol2.html" crc="4285833979" seo="true" mt="1513019653913" redirect="true"/>
 </manifest>
