@@ -1,0 +1,259 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1513176921660">
+  <folder name="css">
+    <file name="site_global.css" crc="93750656"/>
+    <file name="master_a-mastery.css" crc="4279920914" ref="sol2:index:sol1"/>
+    <file name="nomq_preview_master_a-mastery.css" crc="4086979709" ref="sol2:index:sol1"/>
+    <file name="sol2.css" crc="134675528" ref="sol2"/>
+    <file name="nomq_sol2.css" crc="4264829748" ref="sol2"/>
+    <file name="index.css" crc="4003067664" ref="index"/>
+    <file name="nomq_index.css" crc="4040674879" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="sol1.css" crc="377963959" ref="sol1"/>
+    <file name="nomq_sol1.css" crc="28080223" ref="sol1"/>
+  </folder>
+  <folder name="fonts">
+    <file name="geometria-light.woff" crc="4071981005"/>
+    <file name="geometria-light.eot" crc="380979432"/>
+    <file name="geometria-light.svg" crc="155005295"/>
+  </folder>
+  <folder name="assets">
+    <file name="easepack.min.js" crc="4241692533" seo="true" mt="1406006794000"/>
+    <file name="raf.js" crc="3895013867" seo="true" mt="1410913590000"/>
+    <file name="tweenlite.min.js" crc="131518387" seo="true" mt="1406006794000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sol1:sol2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:sol1:sol2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sol1:sol2"/>
+    <file name="museconfig.js" crc="380897831" ref="index:sol1:sol2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:sol1:sol2"/>
+    <file name="webpro.js" crc="242022427" ref="index:sol1:sol2"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:sol1:sol2"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:sol1:sol2"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:sol1:sol2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u12822.php" crc="4231362428" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:sol1:sol2"/>
+    <file name="require.js" crc="4157109226" ref="index:sol1:sol2"/>
+  </folder>
+  <folder name="images">
+    <file name="04.png" crc="128698584" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clouds-2517653_1920.jpg" crc="349537047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:sol1:sol2"/>
+    <file name="sunrise-1959227_1920.jpg" crc="3849920784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s4.jpg" crc="4233160036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s2.jpg" crc="313298146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website-design-slider-background-stockton.jpg" crc="4219764793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="04-u6636-fr.png" crc="4093068098" ref="index"/>
+    <file name="2.gif" crc="3773696684" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.gif" crc="520700747" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line4.png" crc="4139239161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sol3.png" crc="86042352" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5695391.png" crc="4015745776" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line3-u51798-fr.png" crc="409445302" ref="index"/>
+    <file name="line23.jpg" crc="4010095639" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="but0.gif" crc="3849246255" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1but-u51072-r-fr.png" crc="252217596" ref="index"/>
+    <file name="2but-u51552-r-fr.png" crc="180534745" ref="index"/>
+    <file name="3but-u51588-r-fr.png" crc="168677201" ref="index"/>
+    <file name="4but-u51686-r-fr.png" crc="464210191" ref="index"/>
+    <file name="instagram-logo.svg" crc="4021494475" ref="index"/>
+    <file name="instagram-logo_poster_u36942.png" crc="403712727" ref="index"/>
+    <file name="facebook-logo.svg" crc="15706473" ref="index"/>
+    <file name="facebook-logo_poster_u36934.png" crc="52253262" ref="index"/>
+    <file name="twitter-logo-silhouette.svg" crc="314143322" ref="index"/>
+    <file name="twitter-logo-silhouette_poster_u36926.png" crc="211148680" ref="index"/>
+    <file name="sol32.png" crc="4103083535" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line.png" crc="146519745" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="43-u52259-fr.png" crc="228031073" ref="index"/>
+    <file name="logo.png" crc="3995389458" seo="true" ref="index:sol1:sol2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+    </file>
+    <file name="line3.png" crc="4153847144" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1but-u51072-r-fr2.png" crc="3907189478" ref="index"/>
+    <file name="2but-u51552-r-fr2.png" crc="490283467" ref="index"/>
+    <file name="3but-u51588-r-fr2.png" crc="4181095901" ref="index"/>
+    <file name="4but-u51686-r-fr2.png" crc="80671940" ref="index"/>
+    <file name="1but-u51072-r-fr3.png" crc="509001564" ref="index"/>
+    <file name="2but-u51552-r-fr3.png" crc="87493985" ref="index"/>
+    <file name="3but-u51588-r-fr3.png" crc="3771736214" ref="index"/>
+    <file name="4but-u51686-r-fr3.png" crc="3853789839" ref="index"/>
+    <file name="sol3-u50711-fr.png" crc="3972191906" ref="index"/>
+    <file name="1but-u51072-r-fr4.png" crc="190849119" ref="index"/>
+    <file name="2but-u51552-r-fr4.png" crc="199072938" ref="index"/>
+    <file name="3but-u51588-r-fr4.png" crc="4182525560" ref="index"/>
+    <file name="4but-u51686-r-fr4.png" crc="319945246" ref="index"/>
+    <file name="menu.svg" crc="387706797" ref="index"/>
+    <file name="menu_poster_u7304.png" crc="3915531268" ref="index"/>
+    <file name="instagram-logo-bl.svg" crc="3973378452" ref="index"/>
+    <file name="instagram-logo-bl_poster_u16026.png" crc="3888102514" ref="index"/>
+    <file name="facebook-letter-logo-bl.svg" crc="4063079061" ref="index"/>
+    <file name="facebook-letter-logo-bl_poster_u16034.png" crc="508407847" ref="index"/>
+    <file name="twitter-logo-silhouette-bl.svg" crc="4073457038" ref="index"/>
+    <file name="twitter-logo-silhouette-bl_poster_u16042.png" crc="4015665098" ref="index"/>
+    <file name="close.svg" crc="4211750754" ref="index"/>
+    <file name="close_poster_u7162.png" crc="209832264" ref="index"/>
+    <file name="line23-u51056-fr.jpg" crc="173596201" ref="index"/>
+    <file name="1but-u51072-r-fr5.png" crc="181267563" ref="index"/>
+    <file name="2but-u51552-r-fr5.png" crc="3816939226" ref="index"/>
+    <file name="3but-u51588-r-fr5.png" crc="4099040996" ref="index"/>
+    <file name="4but-u51686-r-fr5.png" crc="85037796" ref="index"/>
+    <file name="43.png" crc="283509022" seo="true" ref="sol1:sol2">
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+    </file>
+    <file name="вставленное изображение 876x836.jpg" crc="325837579" seo="true" ref="sol1">
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+      <caption webpage="sol1" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="139300021" seo="true" mt="1513176880104" redirect="true"/>
+  <file name="sol1.html" crc="4038818669" seo="true" mt="1513176880104" redirect="true"/>
+  <file name="sol2.html" crc="4231089836" seo="true" mt="1513176880104" redirect="true"/>
+</manifest>
