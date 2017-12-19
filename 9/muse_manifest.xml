@@ -1,21 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1513674717601">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1513675495560">
   <folder name="css">
     <file name="site_global.css" crc="93750656"/>
     <file name="master_a-mastery.css" crc="247288949" ref="team:fondation:sol1:index:sol2:contact"/>
     <file name="nomq_preview_master_a-mastery.css" crc="506415210" ref="team:fondation:sol1:index:sol2:contact"/>
-    <file name="team.css" crc="4206743335" ref="team"/>
+    <file name="team.css" crc="35920732" ref="team"/>
     <file name="nomq_team.css" crc="4122756436" ref="team"/>
-    <file name="fondation.css" crc="3858102271" ref="fondation"/>
+    <file name="fondation.css" crc="520150145" ref="fondation"/>
     <file name="nomq_fondation.css" crc="415616752" ref="fondation"/>
-    <file name="sol1.css" crc="3788788254" ref="sol1"/>
+    <file name="sol1.css" crc="4257990816" ref="sol1"/>
     <file name="nomq_sol1.css" crc="356633093" ref="sol1"/>
     <file name="iefonts_sol1.css" crc="3824530138" ref="sol1"/>
-    <file name="index.css" crc="505317516" ref="index"/>
+    <file name="index.css" crc="4288302066" ref="index"/>
     <file name="nomq_index.css" crc="3815193583" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="sol2.css" crc="3783900628" ref="sol2"/>
+    <file name="sol2.css" crc="242070170" ref="sol2"/>
     <file name="nomq_sol2.css" crc="51148319" ref="sol2"/>
-    <file name="contact.css" crc="509258351" ref="contact"/>
+    <file name="contact.css" crc="4139595168" ref="contact"/>
     <file name="nomq_contact.css" crc="3860411450" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
   </folder>
@@ -288,10 +288,10 @@
       <caption webpage="team" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4066472164" seo="true" mt="1513674673243" redirect="true"/>
-  <file name="sol1.html" crc="52090016" seo="true" mt="1513674673243" redirect="true"/>
-  <file name="contact.html" crc="218034227" seo="true" mt="1513674673243" redirect="true"/>
-  <file name="team.html" crc="489640216" seo="true" mt="1513674673243" redirect="true"/>
-  <file name="fondation.html" crc="164465030" seo="true" mt="1513674673243" redirect="true"/>
-  <file name="sol2.html" crc="110257046" seo="true" mt="1513674673243" redirect="true"/>
+  <file name="index.html" crc="13392322" seo="true" mt="1513675462687" redirect="true"/>
+  <file name="sol1.html" crc="300323711" seo="true" mt="1513675462687" redirect="true"/>
+  <file name="contact.html" crc="4216394623" seo="true" mt="1513675462687" redirect="true"/>
+  <file name="team.html" crc="4218575220" seo="true" mt="1513675462687" redirect="true"/>
+  <file name="fondation.html" crc="3986911823" seo="true" mt="1513675462687" redirect="true"/>
+  <file name="sol2.html" crc="497376863" seo="true" mt="1513675462687" redirect="true"/>
 </manifest>
