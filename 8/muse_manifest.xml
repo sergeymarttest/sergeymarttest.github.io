@@ -1,21 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1513632132898">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1513663892362">
   <folder name="css">
     <file name="site_global.css" crc="93750656"/>
-    <file name="master_a-mastery.css" crc="3910264656" ref="index:fondation:sol2:sol1:team:contact"/>
-    <file name="nomq_preview_master_a-mastery.css" crc="2378890" ref="index:fondation:sol2:sol1:team:contact"/>
-    <file name="index.css" crc="16764144" ref="index"/>
-    <file name="nomq_index.css" crc="163393755" ref="index"/>
+    <file name="master_a-mastery.css" crc="247288949" ref="index:fondation:sol2:sol1:team:contact"/>
+    <file name="nomq_preview_master_a-mastery.css" crc="506415210" ref="index:fondation:sol2:sol1:team:contact"/>
+    <file name="index.css" crc="3992734336" ref="index"/>
+    <file name="nomq_index.css" crc="3781539274" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="fondation.css" crc="117863681" ref="fondation"/>
-    <file name="nomq_fondation.css" crc="3851006349" ref="fondation"/>
-    <file name="sol2.css" crc="4131734950" ref="sol2"/>
+    <file name="fondation.css" crc="456528879" ref="fondation"/>
+    <file name="nomq_fondation.css" crc="3999583806" ref="fondation"/>
+    <file name="sol2.css" crc="4015595875" ref="sol2"/>
     <file name="nomq_sol2.css" crc="124632850" ref="sol2"/>
-    <file name="sol1.css" crc="54351519" ref="sol1"/>
+    <file name="sol1.css" crc="535936308" ref="sol1"/>
     <file name="nomq_sol1.css" crc="3887089853" ref="sol1"/>
     <file name="iefonts_sol1.css" crc="3824530138" ref="sol1"/>
-    <file name="team.css" crc="363171744" ref="team"/>
-    <file name="nomq_team.css" crc="4237643484" ref="team"/>
-    <file name="contact.css" crc="4151573608" ref="contact"/>
+    <file name="team.css" crc="3884979273" ref="team"/>
+    <file name="nomq_team.css" crc="417472296" ref="team"/>
+    <file name="contact.css" crc="269784117" ref="contact"/>
     <file name="nomq_contact.css" crc="3860411450" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
   </folder>
@@ -153,12 +153,25 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
+      <caption webpage="sol2" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -171,37 +184,27 @@
       <caption webpage="sol1" alt=""/>
       <caption webpage="sol1" alt=""/>
       <caption webpage="sol1" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="sol2" alt=""/>
-      <caption webpage="sol2" alt=""/>
-      <caption webpage="sol2" alt=""/>
-      <caption webpage="sol2" alt=""/>
-      <caption webpage="sol2" alt=""/>
-      <caption webpage="sol2" alt=""/>
     </file>
     <file name="graph7-u68509-fr.jpg" crc="3987289373" ref="index"/>
     <file name="graph8-u67222-fr.png" crc="3782269633" ref="index"/>
     <file name="graph7-u68509-fr2.jpg" crc="3780511927" ref="index"/>
     <file name="graph8-u67222-fr2.png" crc="4079945390" ref="index"/>
-    <file name="menu.svg" crc="387706797" ref="index"/>
-    <file name="menu_poster_u7304.png" crc="3915531268" ref="index"/>
-    <file name="instagram-logo-bl.svg" crc="3973378452" ref="index"/>
-    <file name="instagram-logo-bl_poster_u16026.png" crc="3888102514" ref="index"/>
-    <file name="facebook-letter-logo-bl.svg" crc="4063079061" ref="index"/>
-    <file name="facebook-letter-logo-bl_poster_u16034.png" crc="508407847" ref="index"/>
-    <file name="twitter-logo-silhouette-bl.svg" crc="4073457038" ref="index"/>
-    <file name="twitter-logo-silhouette-bl_poster_u16042.png" crc="4015665098" ref="index"/>
-    <file name="close.svg" crc="4211750754" ref="index"/>
-    <file name="close_poster_u7162.png" crc="209832264" ref="index"/>
+    <file name="menu.svg" crc="387706797" ref="index:team"/>
+    <file name="menu_poster_u7304.png" crc="3915531268" ref="index:team"/>
+    <file name="instagram-logo-bl.svg" crc="3973378452" ref="index:team"/>
+    <file name="instagram-logo-bl_poster_u16026.png" crc="3888102514" ref="index:team"/>
+    <file name="facebook-letter-logo-bl.svg" crc="4063079061" ref="index:team"/>
+    <file name="facebook-letter-logo-bl_poster_u16034.png" crc="508407847" ref="index:team"/>
+    <file name="twitter-logo-silhouette-bl.svg" crc="4073457038" ref="index:team"/>
+    <file name="twitter-logo-silhouette-bl_poster_u16042.png" crc="4015665098" ref="index:team"/>
+    <file name="close.svg" crc="4211750754" ref="index:team"/>
+    <file name="close_poster_u7162.png" crc="209832264" ref="index:team"/>
     <file name="graph7-u68509-fr3.jpg" crc="4237097637" ref="index"/>
     <file name="graph8-u67222-fr3.png" crc="3794587150" ref="index"/>
     <file name="sol3-u52448-fr.png" crc="71374805" ref="index"/>
     <file name="2.png" crc="4181247973" ref="team">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
@@ -240,6 +243,10 @@
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
     <file name="3.png" crc="3858049982" ref="team">
       <caption webpage="team" alt=""/>
@@ -254,12 +261,14 @@
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="329583571" seo="true" mt="1513631940754" redirect="true"/>
-  <file name="sol1.html" crc="115004954" seo="true" mt="1513631940754" redirect="true"/>
-  <file name="contact.html" crc="4122659888" seo="true" mt="1513631940754" redirect="true"/>
-  <file name="team.html" crc="527700376" seo="true" mt="1513631940754" redirect="true"/>
-  <file name="fondation.html" crc="3850551938" seo="true" mt="1513631940754" redirect="true"/>
-  <file name="sol2.html" crc="70141424" seo="true" mt="1513631940754" redirect="true"/>
+  <file name="index.html" crc="3840161382" seo="true" mt="1513663247992" redirect="true"/>
+  <file name="sol1.html" crc="139599489" seo="true" mt="1513663096644" redirect="true"/>
+  <file name="contact.html" crc="3791321752" seo="true" mt="1513663096644" redirect="true"/>
+  <file name="team.html" crc="166523965" seo="true" mt="1513663096644" redirect="true"/>
+  <file name="fondation.html" crc="4184706628" seo="true" mt="1513663161705" redirect="true"/>
+  <file name="sol2.html" crc="4089724544" seo="true" mt="1513663096644" redirect="true"/>
 </manifest>
