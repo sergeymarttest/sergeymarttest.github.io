@@ -10,24 +10,23 @@
    // Redirect to phone/tablet as necessary
 (function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
 0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
-0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","tablet/index.html","phone/index.html");
+0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/index.html");
 
 // Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "jquery.scrolleffects.js", "index.css"], "outOfDate":[]};
 </script>
   
   <link media="only screen and (max-width: 370px)" rel="alternate" href="http://sergeymarttest.github.io/phone/index.html"/>
-  <link media="only screen and (max-width: 960px)" rel="alternate" href="http://sergeymarttest.github.io/tablet/index.html"/>
   <title>Домашняя</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4294537639" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4243102419" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=447795740" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3806420110" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -38,6 +37,30 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <!--HTML Widget code-->
   
   <style type="text/css">.foop {transition: all 500ms;}body {opacity: 1;margin-left: 0;transition: all 500ms;transition-timing-function: linear;}#u1042 {top: -4300px;}html {overflow: hidden !important;} </style>  
+	
+	<style>
+	#preloader {
+	position: fixed;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	background-color:#000000;
+	z-index:99;
+	}
+
+	#status {
+	width:200px;
+	height:200px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	background-image:url(./assets/preloader.gif);
+	background-repeat:no-repeat;
+	background-position:center;
+	margin:-100px 0 0 -100px;
+	}
+	</style>
 	
   <!--/*
 
@@ -54,6 +77,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 
 
 
+	<div id="preloader">
+	<div id="status">&nbsp;</div>
+	</div>
+	
   
   <div class="breakpoint active" id="bp_infinity" data-min-width="1701"><!-- responsive breakpoint node -->
    <div class="clearfix" id="page"><!-- group -->
@@ -192,6 +219,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
+    <div class="size_fixed grpelem shared_content" id="u3393" data-content-guid="u3393_content"><!-- custom html -->
+    </div>
     <div class="verticalspacer" data-offset-top="5178" data-content-above-spacer="5177" data-content-below-spacer="0"></div>
    </div>
    <div class="preload_images">
@@ -227,6 +256,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block5_content"><!-- placeholder node --></span>
      </div>
     </div>
+    <span class="size_fixed grpelem placeholder" data-placeholder-for="u3393_content"><!-- placeholder node --></span>
     <div class="verticalspacer" data-offset-top="4583" data-content-above-spacer="4582" data-content-below-spacer="0"></div>
    </div>
    <div class="preload_images">
@@ -341,6 +371,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
+    <span class="size_fixed grpelem placeholder" data-placeholder-for="u3393_content"><!-- placeholder node --></span>
     <div class="verticalspacer" data-offset-top="3774" data-content-above-spacer="3773" data-content-below-spacer="0"></div>
    </div>
    <div class="preload_images">
@@ -369,6 +400,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block5_content"><!-- placeholder node --></span>
      </div>
     </div>
+    <span class="size_fixed grpelem placeholder" data-placeholder-for="u3393_content"><!-- placeholder node --></span>
     <div class="verticalspacer" data-offset-top="3450" data-content-above-spacer="3450" data-content-below-spacer="0"></div>
    </div>
    <div class="preload_images">
@@ -397,6 +429,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
+    <span class="size_fixed grpelem placeholder" data-placeholder-for="u3393_content"><!-- placeholder node --></span>
     <div class="verticalspacer" data-offset-top="3238" data-content-above-spacer="3237" data-content-below-spacer="0"></div>
    </div>
    <div class="preload_images">
@@ -429,6 +462,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <span class="transition museBGSize clearfix colelem placeholder" data-placeholder-for="u584_content1"><!-- placeholder node --></span>
      <span class="transition museBGSize clearfix colelem placeholder" data-placeholder-for="u623_content1"><!-- placeholder node --></span>
     </div>
+    <span class="size_fixed grpelem placeholder" data-placeholder-for="u3393_content"><!-- placeholder node --></span>
     <div class="verticalspacer" data-offset-top="2588" data-content-above-spacer="2587" data-content-below-spacer="0"></div>
    </div>
    <div class="preload_images">
@@ -462,12 +496,19 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_1280').one('muse_this_bp_activate', function(){
+$('#bp_1400').one('muse_this_bp_activate', function(){
 $('#u94').registerBackgroundPositionScrollEffect([{"speed":[0,1080],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}], $(this)); /* scroll effect */
-$('#u486').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,-380.58]},{"speed":[0,0],"in":[-380.58,Infinity]}], $(this)); /* scroll effect */
-$('#u510').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,295.31]},{"speed":[0,0],"in":[295.31,Infinity]}], $(this)); /* scroll effect */
-$('#u581').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,995.99]},{"speed":[0,0],"in":[995.99,Infinity]}], $(this)); /* scroll effect */
-$('#u626').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,1705.25]},{"speed":[0,0],"in":[1705.25,Infinity]}], $(this)); /* scroll effect */
+$('#u486').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,-315.02]},{"speed":[0,0],"in":[-315.02,Infinity]}], $(this)); /* scroll effect */
+$('#u510').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,424.24]},{"speed":[0,0],"in":[424.24,Infinity]}], $(this)); /* scroll effect */
+$('#u581').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,1190.61]},{"speed":[0,0],"in":[1190.61,Infinity]}], $(this)); /* scroll effect */
+$('#u626').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,1966.36]},{"speed":[0,0],"in":[1966.36,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u94').registerBackgroundPositionScrollEffect([{"speed":[0,1080],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}], $(this)); /* scroll effect */
+$('#u486').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,-30.8]},{"speed":[0,0],"in":[-30.8,Infinity]}], $(this)); /* scroll effect */
+$('#u510').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,983.05]},{"speed":[0,0],"in":[983.05,Infinity]}], $(this)); /* scroll effect */
+$('#u581').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,2034.1]},{"speed":[0,0],"in":[2034.1,Infinity]}], $(this)); /* scroll effect */
+$('#u626').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,3099.09]},{"speed":[0,0],"in":[3099.09,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_1200').one('muse_this_bp_activate', function(){
 $('#u94').registerBackgroundPositionScrollEffect([{"speed":[0,1080],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}], $(this)); /* scroll effect */
@@ -490,19 +531,12 @@ $('#u510').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinit
 $('#u581').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,1677.14]},{"speed":[0,0],"in":[1677.14,Infinity]}], $(this)); /* scroll effect */
 $('#u626').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,2619.13]},{"speed":[0,0],"in":[2619.13,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#bp_1280').one('muse_this_bp_activate', function(){
 $('#u94').registerBackgroundPositionScrollEffect([{"speed":[0,1080],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}], $(this)); /* scroll effect */
-$('#u486').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,-30.8]},{"speed":[0,0],"in":[-30.8,Infinity]}], $(this)); /* scroll effect */
-$('#u510').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,983.05]},{"speed":[0,0],"in":[983.05,Infinity]}], $(this)); /* scroll effect */
-$('#u581').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,2034.1]},{"speed":[0,0],"in":[2034.1,Infinity]}], $(this)); /* scroll effect */
-$('#u626').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,3099.09]},{"speed":[0,0],"in":[3099.09,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_1400').one('muse_this_bp_activate', function(){
-$('#u94').registerBackgroundPositionScrollEffect([{"speed":[0,1080],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}], $(this)); /* scroll effect */
-$('#u486').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,-315.02]},{"speed":[0,0],"in":[-315.02,Infinity]}], $(this)); /* scroll effect */
-$('#u510').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,424.24]},{"speed":[0,0],"in":[424.24,Infinity]}], $(this)); /* scroll effect */
-$('#u581').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,1190.61]},{"speed":[0,0],"in":[1190.61,Infinity]}], $(this)); /* scroll effect */
-$('#u626').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,1966.36]},{"speed":[0,0],"in":[1966.36,Infinity]}], $(this)); /* scroll effect */
+$('#u486').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,-380.58]},{"speed":[0,0],"in":[-380.58,Infinity]}], $(this)); /* scroll effect */
+$('#u510').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,295.31]},{"speed":[0,0],"in":[295.31,Infinity]}], $(this)); /* scroll effect */
+$('#u581').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,995.99]},{"speed":[0,0],"in":[995.99,Infinity]}], $(this)); /* scroll effect */
+$('#u626').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,1705.25]},{"speed":[0,0],"in":[1705.25,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
@@ -537,7 +571,7 @@ for(var i = a.length-1 ; i >= 0 ; i--) {
 var t = a[i].getClientRects()[0].top;
 if(t < -70) break;}}
 var time = 500; 
-var qooqee = 'linear';
+var qooqee = 'swing';
 $("html, body").animate({ scrollTop: $(a[i]).offset().top }, time, qooqee );});})();}}); 
 $(window).load(function(){
 var ef = 1;
@@ -583,5 +617,13 @@ jQuery.easing.jswing=jQuery.easing.swing;jQuery.extend(jQuery.easing,{def:"easeO
  </script>
 
 
+	<script type="text/javascript">
+	$(window).load(function() {
+	$('#status').fadeOut();
+	$('#preloader').delay(350).fadeOut('slow');
+	$('body').delay(350).css({'overflow':'visible'});
+	})
+	</script>
+	
    </body>
 </html>
