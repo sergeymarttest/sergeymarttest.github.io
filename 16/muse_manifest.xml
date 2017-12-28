@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1514489002639">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1514489284577">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="502300791" ref="index"/>
+    <file name="index.css" crc="502945405" ref="index"/>
     <file name="nomq_index.css" crc="3883945225" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
@@ -40,11 +40,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="logo5_poster_.png" crc="3847066781" ref="phone>index"/>
+    <file name="logo5_poster_.png" crc="4019889807" ref="phone>index:index"/>
     <file name="perspective-app-screens-mock-u2p.jpg" crc="315518118" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -63,8 +60,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pistol.gif" crc="3855071228" ref="phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="pistol.gif" crc="4201356637" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -81,10 +77,6 @@
     <file name="zodiack-min.png" crc="4215305916" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pistol2.gif" crc="4201356637" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="scrol.svg" crc="188970913" ref="index"/>
     <file name="scrol_poster_u5875.png" crc="3770435330" ref="index"/>
     <file name="suzerain-u94-fr.png" crc="122510760" ref="index"/>
@@ -99,5 +91,5 @@
     </folder>
     <file name="index.html" crc="436847526" seo="true" mt="1514482192798" redirect="true"/>
   </folder>
-  <file name="index.html" crc="357340837" seo="true" mt="1514488880922" redirect="true"/>
+  <file name="index.html" crc="249689926" seo="true" mt="1514489272135" redirect="true"/>
 </manifest>
