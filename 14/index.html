@@ -7,20 +7,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
-   // Update the 'nojs'/'js' class on the html node
+   // Redirect to phone/tablet as necessary
+(function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
+0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
+0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","tablet/index.html","phone/index.html");
+
+// Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "index.css"], "outOfDate":[]};
 </script>
   
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://sergeymarttest.github.io/phone/index.html"/>
+  <link media="only screen and (max-width: 960px)" rel="alternate" href="http://sergeymarttest.github.io/tablet/index.html"/>
   <title>Домашняя</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=389733545" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4294537639" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=456458799" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=447795740" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -30,7 +37,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <script src="https://webfonts.creativecloud.com/open-sans:n7:all.js" type="text/javascript"></script>
     <!--HTML Widget code-->
   
-  <style type="text/css">.foop {transition: all 500ms;}body {opacity: 1;margin-left: 0;transition: all 500ms;transition-timing-function: linear;}#u1042 {top: -4300px;}html {overflow: auto !important;} </style>  
+  <style type="text/css">.foop {transition: all 500ms;}body {opacity: 1;margin-left: 0;transition: all 500ms;transition-timing-function: linear;}#u1042 {top: -4300px;}html {overflow: hidden !important;} </style>  
 	
   <!--/*
 
@@ -70,7 +77,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <div class="clearfix grpelem" id="ppu110"><!-- column -->
      <div class="clearfix colelem" id="pu110"><!-- group -->
-      <div class="museBGSize grpelem shared_content" id="u110" data-content-guid="u110_content"><!-- simple frame --></div>
+      <div class="museBGSize grpelem" id="u110"><!-- simple frame --></div>
       <div class="museBGSize clearfix grpelem shared_content" id="u94" data-content-guid="u94_content"><!-- group -->
        <div class="clearfix grpelem" id="u1553"><!-- group -->
         <div class="clearfix grpelem" id="u208-23"><!-- content -->
@@ -232,7 +239,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <span class="size_fixed grpelem placeholder" data-placeholder-for="u1042_content"><!-- placeholder node --></span>
     <span class="anchor_item grpelem placeholder" data-placeholder-for="block1_content"><!-- placeholder node --></span>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu110"><!-- column -->
-     <div class="museBGSize clearfix colelem temp_no_id shared_content" data-orig-id="u110" data-content-guid="u110_content1"><!-- group -->
+     <div class="museBGSize clearfix colelem temp_no_id shared_content" data-orig-id="u110" data-content-guid="u110_content"><!-- group -->
       <div class="museBGSize clearfix grpelem temp_no_id" data-orig-id="u94"><!-- group -->
        <div class="clearfix grpelem shared_content" id="u1558" data-content-guid="u1558_content"><!-- group -->
         <div class="clearfix grpelem" id="u1560-23"><!-- content -->
@@ -255,7 +262,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="transition museBGSize clearfix colelem temp_no_id shared_content" data-orig-id="u269" data-content-guid="u269_content1"><!-- group -->
       <div class="museBGSize clearfix grpelem temp_no_id" data-orig-id="u486"><!-- group -->
        <span class="anchor_item grpelem placeholder" data-placeholder-for="block2_content"><!-- placeholder node --></span>
-       <div class="clearfix grpelem shared_content" id="u1600" data-content-guid="u1600_content"><!-- group -->
+       <div class="clearfix grpelem" id="u1600"><!-- group -->
         <div class="clearfix grpelem" id="u1603-21"><!-- content -->
          <p id="u1603-2">LUCKY MARKET</p>
          <p id="u1603-4">Dreams come true!</p>
@@ -296,7 +303,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="transition museBGSize clearfix colelem temp_no_id shared_content" data-orig-id="u584" data-content-guid="u584_content1"><!-- group -->
       <div class="museBGSize clearfix grpelem temp_no_id shared_content" data-orig-id="u581" data-content-guid="u581_content"><!-- group -->
        <span class="anchor_item grpelem placeholder" data-placeholder-for="block4_content"><!-- placeholder node --></span>
-       <div class="clearfix grpelem shared_content" id="u1672" data-content-guid="u1672_content"><!-- group -->
+       <div class="clearfix grpelem" id="u1672"><!-- group -->
         <div class="clearfix grpelem" id="u590-21"><!-- content -->
          <p id="u590-2">ZODIAC</p>
          <p id="u590-4">За честь своего Дома!</p>
@@ -346,7 +353,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <span class="size_fixed grpelem placeholder" data-placeholder-for="u1042_content"><!-- placeholder node --></span>
     <span class="anchor_item grpelem placeholder" data-placeholder-for="block1_content"><!-- placeholder node --></span>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu110"><!-- column -->
-     <span class="museBGSize clearfix colelem placeholder" data-placeholder-for="u110_content1"><!-- placeholder node --></span>
+     <span class="museBGSize clearfix colelem placeholder" data-placeholder-for="u110_content"><!-- placeholder node --></span>
      <span class="transition museBGSize clearfix colelem placeholder" data-placeholder-for="u269_content1"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="pu457_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu584"><!-- group -->
@@ -397,112 +404,32 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <img class="preload temp_no_img_src" data-orig-src="images/wallhaven-299233264323.png?crc=196082216" alt="" src="images/blank.gif?crc=4208392903"/>
    </div>
   </div>
-  <div class="breakpoint" id="bp_960" data-min-width="724" data-max-width="960"><!-- responsive breakpoint node -->
+  <div class="breakpoint" id="bp_960" data-max-width="960"><!-- responsive breakpoint node -->
    <div class="clearfix temp_no_id" data-orig-id="page"><!-- group -->
     <span class="size_fixed grpelem placeholder" data-placeholder-for="u1042_content"><!-- placeholder node --></span>
-    <div class="clearfix grpelem temp_no_id" data-orig-id="ppu110"><!-- column -->
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu110"><!-- group -->
-      <div class="browser_width grpelem" id="u110-bw">
-       <span class="museBGSize placeholder" data-placeholder-for="u110_content"><!-- placeholder node --></span>
-      </div>
-      <div class="browser_width grpelem" id="u94-bw">
-       <div class="museBGSize temp_no_id" data-orig-id="u94"><!-- group -->
-        <div class="clearfix" id="u94_align_to_page">
-         <span class="anchor_item grpelem placeholder" data-placeholder-for="block1_content"><!-- placeholder node --></span>
-         <span class="clearfix grpelem placeholder" data-placeholder-for="u1558_content"><!-- placeholder node --></span>
-        </div>
-       </div>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu110"><!-- column -->
+     <div class="museBGSize clearfix colelem temp_no_id" data-orig-id="u110"><!-- group -->
+      <div class="museBGSize clearfix grpelem temp_no_id" data-orig-id="u94"><!-- group -->
+       <span class="anchor_item grpelem placeholder" data-placeholder-for="block1_content"><!-- placeholder node --></span>
+       <span class="clearfix grpelem placeholder" data-placeholder-for="u1558_content"><!-- placeholder node --></span>
       </div>
      </div>
-     <div class="clearfix colelem" id="pu269"><!-- group -->
-      <div class="browser_width grpelem" id="u269-bw">
-       <div class="transition museBGSize temp_no_id" data-orig-id="u269"><!-- simple frame --></div>
-      </div>
-      <div class="browser_width grpelem" id="u486-bw">
-       <div class="museBGSize temp_no_id" data-orig-id="u486"><!-- group -->
-        <div class="clearfix" id="u486_align_to_page">
-         <span class="anchor_item grpelem placeholder" data-placeholder-for="block2_content"><!-- placeholder node --></span>
-         <span class="clearfix grpelem placeholder" data-placeholder-for="u1600_content"><!-- placeholder node --></span>
-        </div>
-       </div>
-      </div>
-     </div>
+     <span class="transition museBGSize clearfix colelem placeholder" data-placeholder-for="u269_content1"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu457"><!-- group -->
-      <div class="browser_width grpelem" id="u457-bw">
-       <div class="transition museBGSize temp_no_id" data-orig-id="u457"><!-- simple frame --></div>
-      </div>
-      <div class="browser_width grpelem" id="u510-bw">
-       <div class="museBGSize temp_no_id" data-orig-id="u510"><!-- group -->
-        <div class="clearfix" id="u510_align_to_page">
-         <div class="clearfix grpelem temp_no_id" data-orig-id="u1635"><!-- group -->
-          <span class="clearfix grpelem placeholder" data-placeholder-for="u1638-18_content"><!-- placeholder node --></span>
-          <span class="nonblock nontext rounded-corners clearfix grpelem placeholder" data-placeholder-for="u1636-4_content"><!-- placeholder node --></span>
-         </div>
+      <div class="transition museBGSize clearfix grpelem temp_no_id" data-orig-id="u457"><!-- group -->
+       <div class="museBGSize clearfix grpelem temp_no_id" data-orig-id="u510"><!-- group -->
+        <div class="clearfix grpelem temp_no_id" data-orig-id="u1635"><!-- group -->
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u1638-18_content"><!-- placeholder node --></span>
+         <span class="nonblock nontext rounded-corners clearfix grpelem placeholder" data-placeholder-for="u1636-4_content"><!-- placeholder node --></span>
         </div>
        </div>
       </div>
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block3_content"><!-- placeholder node --></span>
      </div>
-     <div class="browser_width colelem" id="u584-bw">
-      <div class="transition museBGSize temp_no_id" data-orig-id="u584"><!-- group -->
-       <div class="clearfix" id="u584_align_to_page">
-        <span class="museBGSize clearfix grpelem placeholder" data-placeholder-for="u581_content"><!-- placeholder node --></span>
-       </div>
-      </div>
-     </div>
+     <span class="transition museBGSize clearfix colelem placeholder" data-placeholder-for="u584_content1"><!-- placeholder node --></span>
      <span class="transition museBGSize clearfix colelem placeholder" data-placeholder-for="u623_content1"><!-- placeholder node --></span>
     </div>
     <div class="verticalspacer" data-offset-top="2588" data-content-above-spacer="2587" data-content-below-spacer="0"></div>
-   </div>
-   <div class="preload_images">
-    <img class="preload temp_no_img_src" data-orig-src="images/wallhaven-29964323-u110-fr.png?crc=4136312235" alt="" src="images/blank.gif?crc=4208392903"/>
-    <img class="preload temp_no_img_src" data-orig-src="images/wallhaven-299233264323-u457-r-fr.png?crc=4179008199" alt="" src="images/blank.gif?crc=4208392903"/>
-    <img class="preload temp_no_img_src" data-orig-src="images/wallhaven-299233264323.png?crc=196082216" alt="" src="images/blank.gif?crc=4208392903"/>
-   </div>
-  </div>
-  <div class="breakpoint" id="bp_723" data-max-width="723"><!-- responsive breakpoint node -->
-   <div class="clearfix temp_no_id" data-orig-id="page"><!-- group -->
-    <span class="size_fixed grpelem placeholder" data-placeholder-for="u1042_content"><!-- placeholder node --></span>
-    <div class="clearfix grpelem temp_no_id" data-orig-id="pu110"><!-- column -->
-     <div class="browser_width colelem temp_no_id" data-orig-id="u110-bw">
-      <div class="museBGSize temp_no_id" data-orig-id="u110"><!-- column -->
-       <div class="clearfix" id="u110_align_to_page">
-        <div class="museBGSize colelem" id="u2443"><!-- simple frame --></div>
-        <span class="clearfix colelem placeholder" data-placeholder-for="u1558_content"><!-- placeholder node --></span>
-       </div>
-      </div>
-     </div>
-     <div class="transition museBGSize clearfix colelem temp_no_id" data-orig-id="u269"><!-- column -->
-      <div class="museBGSize colelem" id="u2481"><!-- simple frame --></div>
-      <span class="clearfix colelem placeholder" data-placeholder-for="u1600_content"><!-- placeholder node --></span>
-     </div>
-     <div class="transition museBGSize clearfix colelem temp_no_id" data-orig-id="u457"><!-- column -->
-      <div class="museBGSize colelem" id="u2531"><!-- simple frame --></div>
-      <div class="clearfix colelem temp_no_id" data-orig-id="u1635"><!-- group -->
-       <span class="clearfix grpelem placeholder" data-placeholder-for="u1638-18_content"><!-- placeholder node --></span>
-       <span class="nonblock nontext rounded-corners clearfix grpelem placeholder" data-placeholder-for="u1636-4_content"><!-- placeholder node --></span>
-      </div>
-     </div>
-     <div class="browser_width colelem temp_no_id" data-orig-id="u584-bw">
-      <div class="transition museBGSize temp_no_id" data-orig-id="u584"><!-- column -->
-       <div class="clearfix temp_no_id" data-orig-id="u584_align_to_page">
-        <div class="museBGSize colelem" id="u2581"><!-- simple frame --></div>
-        <span class="clearfix colelem placeholder" data-placeholder-for="u1672_content"><!-- placeholder node --></span>
-       </div>
-      </div>
-     </div>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu623"><!-- group -->
-      <div class="browser_width grpelem temp_no_id" data-orig-id="u623-bw">
-       <div class="transition museBGSize temp_no_id" data-orig-id="u623"><!-- group -->
-        <div class="clearfix temp_no_id" data-orig-id="u623_align_to_page">
-         <span class="clearfix grpelem placeholder" data-placeholder-for="u1714_content"><!-- placeholder node --></span>
-        </div>
-       </div>
-      </div>
-      <div class="museBGSize grpelem" id="u2631"><!-- simple frame --></div>
-     </div>
-    </div>
-    <div class="verticalspacer" data-offset-top="5110" data-content-above-spacer="5110" data-content-below-spacer="0"></div>
    </div>
    <div class="preload_images">
     <img class="preload temp_no_img_src" data-orig-src="images/wallhaven-29964323.png?crc=4291375911" alt="" src="images/blank.gif?crc=4208392903"/>
