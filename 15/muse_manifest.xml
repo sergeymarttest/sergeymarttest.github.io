@@ -1,0 +1,100 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1514430544048">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="420837898" ref="index"/>
+    <file name="nomq_index.css" crc="4218847578" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="geometria-thin.woff" crc="3976705136"/>
+    <file name="geometria-thin.eot" crc="4181646953"/>
+    <file name="geometria-thin.svg" crc="267264343"/>
+  </folder>
+  <folder name="assets">
+    <file name="preloader.gif" crc="298002628" seo="true" mt="1514427843000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="phone>index:index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="wallhaven-29964323.png" crc="4291375911" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="suzerain3.jpg" crc="3931158095" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perspective-app-screens-mock-u2p.jpg" crc="315518118" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wallhaven-299233264323.png" crc="196082216" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="suzerain6.jpg" crc="3862315837" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zodiack2.jpg" crc="4269034752" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pistol.gif" crc="3855071228" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="suzerain.png" crc="18738206" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lucy-min.png" crc="105980476" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arcanum.png" crc="3887366158" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zodiack-min.png" crc="4215305916" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pistol2.gif" crc="4201356637" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="78361617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo1.png" crc="4282208251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="suzerain-u94-fr.png" crc="122510760" ref="index"/>
+    <file name="lucy-min-u486-fr.png" crc="313967022" ref="index"/>
+    <file name="arcanum-u510-fr.png" crc="4083078723" ref="index"/>
+    <file name="zodiack-min-u581-fr.png" crc="3831313526" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="184143729" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4010215837" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="265715619" seo="true" mt="1514428561077" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="348305049" seo="true" mt="1514430457077" redirect="true"/>
+</manifest>
