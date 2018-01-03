@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="13korshunov@gmail.com" resolutions="1x" timestamp="1515009077886">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="13korshunov@gmail.com" resolutions="1x" timestamp="1515010135535">
   <folder name="css">
     <file name="site_global.css" crc="93750656"/>
     <file name="master_a-mastery.css" crc="3925501959" ref="join-us:ideology:fondation:introduction:contact:index:team"/>
@@ -7,7 +7,7 @@
     <file name="nomq_join-us.css" crc="4191589097" ref="join-us"/>
     <file name="ideology.css" crc="239164777" ref="ideology"/>
     <file name="nomq_ideology.css" crc="4000794086" ref="ideology"/>
-    <file name="fondation.css" crc="272947418" ref="fondation"/>
+    <file name="fondation.css" crc="3995315111" ref="fondation"/>
     <file name="nomq_fondation.css" crc="482429248" ref="fondation"/>
     <file name="iefonts_fondation.css" crc="3824530138" ref="fondation"/>
     <file name="introduction.css" crc="496100665" ref="introduction"/>
@@ -129,7 +129,7 @@
     <file name="sol3.png" crc="4103083535" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="clouds-2517653_1920.jpg" crc="349537047" seo="true" ref="index:team:contact:fondation:join-us">
+    <file name="clouds-2517653_1920.jpg" crc="349537047" ref="index:team:contact:fondation:join-us">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -137,6 +137,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="fondation" alt=""/>
     </file>
     <file name="pexels-photo-169647.jpg" crc="473518072" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -238,6 +239,7 @@
       <caption webpage="ideology" alt=""/>
       <caption webpage="ideology" alt=""/>
       <caption webpage="ideology" alt=""/>
+      <caption webpage="fondation" alt=""/>
     </file>
     <file name="graph5.jpg" crc="244275751" seo="true" ref="introduction">
       <caption webpage="introduction" alt=""/>
@@ -296,21 +298,25 @@
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="clouds-2517653_1920-u91235-fr.jpg" crc="4045283100" ref="team:contact:fondation:join-us"/>
-    <file name="cool-digital-backgrounds-30960-31691-hd-wallpapers-u91027-fr.jpg" crc="4176163147" ref="team:contact:fondation:join-us"/>
+    <file name="clouds-2517653_1920-u91235-fr.jpg" crc="4045283100" ref="team:contact:join-us"/>
+    <file name="cool-digital-backgrounds-30960-31691-hd-wallpapers-u91027-fr.jpg" crc="4176163147" ref="team:contact:join-us"/>
     <file name="clouds-2517653_1920-u91235-fr2.jpg" crc="4262391749" ref="team:contact:join-us"/>
-    <file name="cool-digital-backgrounds-30960-31691-hd-wallpapers-u91027-fr2.jpg" crc="3968882068" ref="team:contact:fondation:join-us"/>
-    <file name="cool-digital-backgrounds-30960-31691-hd-wallpapers-u91027-fr3.jpg" crc="3944343542" ref="team:contact:fondation:join-us"/>
+    <file name="cool-digital-backgrounds-30960-31691-hd-wallpapers-u91027-fr2.jpg" crc="3968882068" ref="team:contact:join-us"/>
+    <file name="cool-digital-backgrounds-30960-31691-hd-wallpapers-u91027-fr3.jpg" crc="3944343542" ref="team:contact:join-us"/>
     <file name="clouds-2517653_1920-u92292-fr.jpg" crc="3884594058" ref="contact"/>
     <file name="clouds-2517653_1920-u92292-fr2.jpg" crc="77591970" ref="contact"/>
-    <file name="clouds-2517653_1920-u92995-fr.jpg" crc="4287452683" ref="fondation"/>
+    <file name="clouds-2517653_1920-u92995-fr.jpg" crc="4045283100" ref="fondation"/>
     <file name="clouds-2517653_1920-u94585-fr.jpg" crc="130902378" ref="join-us"/>
+    <file name="cool-digital-backgrounds-30960-31691-hd-wallpapers-u92864-fr.jpg" crc="4176163147" ref="fondation"/>
+    <file name="clouds-2517653_1920-u92995-fr2.jpg" crc="4287452683" ref="fondation"/>
+    <file name="cool-digital-backgrounds-30960-31691-hd-wallpapers-u92864-fr2.jpg" crc="3968882068" ref="fondation"/>
+    <file name="cool-digital-backgrounds-30960-31691-hd-wallpapers-u92864-fr3.jpg" crc="3944343542" ref="fondation"/>
   </folder>
   <file name="index.html" crc="4283617993" seo="true" mt="1515007697255" redirect="true"/>
   <file name="introduction.html" crc="487285881" seo="true" mt="1515007697255" redirect="true"/>
   <file name="ideology.html" crc="496731463" seo="true" mt="1515007697255" redirect="true"/>
   <file name="team.html" crc="419755667" seo="true" mt="1515007697255" redirect="true"/>
   <file name="contact.html" crc="4039587787" seo="true" mt="1515008910476" redirect="true"/>
-  <file name="fondation.html" crc="3870945737" seo="true" mt="1515008700912" redirect="true"/>
+  <file name="fondation.html" crc="21383524" seo="true" mt="1515010108373" redirect="true"/>
   <file name="join-us.html" crc="4073492144" seo="true" mt="1515007697255" redirect="true"/>
 </manifest>
