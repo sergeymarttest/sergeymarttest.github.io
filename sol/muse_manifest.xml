@@ -1,36 +1,36 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.solsociety.org" resolutions="1x" timestamp="1515612381271">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.solsociety.org" resolutions="1x" timestamp="1515619455337">
   <folder name="css">
     <file name="site_global.css" crc="387748680"/>
-    <file name="master_a-mastery.css" crc="108841248" ref="fondation:index:basic:join-us:team:ideology:introduction:email"/>
-    <file name="nomq_preview_master_a-mastery.css" crc="4052421172" ref="fondation:index:basic:join-us:team:ideology:introduction:email"/>
-    <file name="fondation.css" crc="4218198625" ref="fondation"/>
+    <file name="master_a-mastery.css" crc="3784337067" ref="join-us:fondation:team:index:email:ideology:introduction:basic"/>
+    <file name="nomq_preview_master_a-mastery.css" crc="67629821" ref="join-us:fondation:team:index:email:ideology:introduction:basic"/>
+    <file name="join-us.css" crc="4257864179" ref="join-us"/>
+    <file name="nomq_join-us.css" crc="184292957" ref="join-us"/>
+    <file name="fondation.css" crc="162594968" ref="fondation"/>
     <file name="nomq_fondation.css" crc="192119899" ref="fondation"/>
     <file name="iefonts_fondation.css" crc="3824530138" ref="fondation"/>
-    <file name="index.css" crc="4168502926" ref="index"/>
-    <file name="nomq_index.css" crc="464308242" ref="index"/>
-    <file name="basic.css" crc="303419727" ref="basic"/>
-    <file name="nomq_basic.css" crc="352920128" ref="basic"/>
-    <file name="iefonts_basic.css" crc="3824530138" ref="basic"/>
-    <file name="join-us.css" crc="147085062" ref="join-us"/>
-    <file name="nomq_join-us.css" crc="184292957" ref="join-us"/>
-    <file name="team.css" crc="4061388348" ref="team"/>
+    <file name="team.css" crc="3971150871" ref="team"/>
     <file name="nomq_team.css" crc="140583800" ref="team"/>
-    <file name="ideology.css" crc="3791760731" ref="ideology"/>
+    <file name="index.css" crc="3774388975" ref="index"/>
+    <file name="nomq_index.css" crc="4085668569" ref="index"/>
+    <file name="email.css" crc="4123046783" ref="email"/>
+    <file name="nomq_email.css" crc="3958952938" ref="email"/>
+    <file name="ideology.css" crc="494036397" ref="ideology"/>
     <file name="nomq_ideology.css" crc="447262173" ref="ideology"/>
     <file name="iefonts_ideology.css" crc="3824530138" ref="ideology"/>
-    <file name="introduction.css" crc="4183046255" ref="introduction"/>
+    <file name="introduction.css" crc="4251776466" ref="introduction"/>
     <file name="nomq_introduction.css" crc="3902065698" ref="introduction"/>
     <file name="iefonts_introduction.css" crc="3824530138" ref="introduction"/>
-    <file name="email.css" crc="388483454" ref="email"/>
-    <file name="nomq_email.css" crc="3958952938" ref="email"/>
+    <file name="basic.css" crc="500459892" ref="basic"/>
+    <file name="nomq_basic.css" crc="352920128" ref="basic"/>
+    <file name="iefonts_basic.css" crc="3824530138" ref="basic"/>
   </folder>
   <folder name="fonts">
-    <file name="geometria-light.woff" crc="4071981005"/>
-    <file name="geometria-light.eot" crc="380979432"/>
-    <file name="geometria-light.svg" crc="448749515"/>
     <file name="geometria-thin.woff" crc="3976705136"/>
     <file name="geometria-thin.eot" crc="4181646953"/>
     <file name="geometria-thin.svg" crc="267264343"/>
+    <file name="geometria-light.woff" crc="4071981005"/>
+    <file name="geometria-light.eot" crc="380979432"/>
+    <file name="geometria-light.svg" crc="448749515"/>
   </folder>
   <folder name="assets">
     <file name="easepack.min.js" crc="4241692533" seo="true" mt="1406006794000"/>
@@ -69,50 +69,50 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:introduction:ideology:team:fondation:join-us:basic:email"/>
     <file name="2.gif" crc="3773696684" ref="index:introduction:ideology:team:fondation:join-us:basic:email">
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
       <caption webpage="join-us" alt=""/>
       <caption webpage="join-us" alt=""/>
       <caption webpage="join-us" alt=""/>
       <caption webpage="join-us" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="email" alt=""/>
       <caption webpage="email" alt=""/>
       <caption webpage="email" alt=""/>
       <caption webpage="email" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
     </file>
     <file name="graph7.jpg" crc="285504283" ref="index">
       <caption webpage="index" alt=""/>
@@ -176,30 +176,6 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="logo.png" crc="3995389458" seo="true" ref="index:introduction:ideology:team:fondation:join-us:basic:email">
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="ideology" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
-      <caption webpage="fondation" alt=""/>
       <caption webpage="join-us" alt=""/>
       <caption webpage="join-us" alt=""/>
       <caption webpage="join-us" alt=""/>
@@ -212,42 +188,6 @@
       <caption webpage="join-us" alt=""/>
       <caption webpage="join-us" alt=""/>
       <caption webpage="join-us" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="basic" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="introduction" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
@@ -260,6 +200,42 @@
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="ideology" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="basic" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="email" alt=""/>
       <caption webpage="email" alt=""/>
       <caption webpage="email" alt=""/>
@@ -272,6 +248,30 @@
       <caption webpage="email" alt=""/>
       <caption webpage="email" alt=""/>
       <caption webpage="email" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
+      <caption webpage="fondation" alt=""/>
     </file>
     <file name="graph7-u68509-fr.jpg" crc="100211296" ref="index"/>
     <file name="graph7-u68509-fr2.jpg" crc="141626810" ref="index"/>
@@ -430,12 +430,12 @@
     <file name="cool-digital-backgrounds-30960-31691-hd-wallpapers-u97900-fr.jpg" crc="4159630521" ref="email"/>
     <file name="cool-digital-backgrounds-30960-31691-hd-wallpapers-u97900-fr2.jpg" crc="4044488448" ref="email"/>
   </folder>
-  <file name="index.html" crc="4242136795" seo="true" mt="1515610447717" redirect="true"/>
-  <file name="introduction.html" crc="4029569590" seo="true" mt="1515610447717" redirect="true"/>
-  <file name="ideology.html" crc="4166914199" seo="true" mt="1515610447717" redirect="true"/>
-  <file name="team.html" crc="4241655764" seo="true" mt="1515610447717" redirect="true"/>
-  <file name="fondation.html" crc="4010583945" seo="true" mt="1515611196263" redirect="true"/>
-  <file name="join-us.html" crc="242552389" seo="true" mt="1515610447717" redirect="true"/>
-  <file name="basic.html" crc="4009315964" seo="true" mt="1515610447717" redirect="true"/>
-  <file name="email.html" crc="4051209731" seo="true" mt="1515610447717" redirect="true"/>
+  <file name="index.html" crc="367895910" seo="true" mt="1515619100559" redirect="true"/>
+  <file name="introduction.html" crc="172597380" seo="true" mt="1515619100559" redirect="true"/>
+  <file name="ideology.html" crc="4122575743" seo="true" mt="1515619100559" redirect="true"/>
+  <file name="team.html" crc="3783408626" seo="true" mt="1515619100559" redirect="true"/>
+  <file name="fondation.html" crc="4108817304" seo="true" mt="1515619293538" redirect="true"/>
+  <file name="join-us.html" crc="196770836" seo="true" mt="1515619100559" redirect="true"/>
+  <file name="basic.html" crc="4124612779" seo="true" mt="1515619100559" redirect="true"/>
+  <file name="email.html" crc="4269862621" seo="true" mt="1515619100559" redirect="true"/>
 </manifest>
