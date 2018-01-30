@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517340405071">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517341147077">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="497551693" ref="index"/>
+    <file name="index.css" crc="4142770922" ref="index"/>
     <file name="nomq_index.css" crc="462358367" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="cytellect.css" crc="6949118" ref="cytellect"/>
@@ -41,6 +41,7 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index:kara:cytellect"/>
     <file name="logodll.svg" crc="342336438" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -274,12 +275,12 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3820931253" ref="phone>index"/>
+      <file name="index.css" crc="4027228589" ref="phone>index"/>
       <file name="nomq_index.css" crc="4075672425" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4179397829" seo="true" mt="1517340003731" redirect="true"/>
+    <file name="index.html" crc="162085091" seo="true" mt="1517341076710" redirect="true"/>
   </folder>
-  <file name="index.html" crc="534490624" seo="true" mt="1517340197376" redirect="true"/>
+  <file name="index.html" crc="3938991655" seo="true" mt="1517340838272" redirect="true"/>
   <file name="kara.html" crc="4156640481" seo="true" mt="1517339938075" redirect="true"/>
   <file name="cytellect.html" crc="4267199466" seo="true" mt="1517339706586" redirect="true"/>
 </manifest>
