@@ -16,18 +16,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "jquery.scrolleffects.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
   <link media="only screen and (max-width: 370px)" rel="alternate" href="http://sergeymarttest.github.io/dll/phone/index.html"/>
   <title>Домашняя</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=369779667" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=497551693" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=3824530138"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=435361558" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=462358367" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -550,7 +550,7 @@ z-index: 99999999;
     </div>
     <div class="clearfix grpelem" id="ppu110"><!-- column -->
      <div class="clearfix colelem" id="pu110"><!-- group -->
-      <div class="museBGSize grpelem" id="u110"><!-- simple frame --></div>
+      <div class="museBGSize grpelem shared_content" id="u110" data-content-guid="u110_content"><!-- simple frame --></div>
       <div class="museBGSize clearfix grpelem" id="u94"><!-- column -->
        <div class="clearfix colelem shared_content" id="u1553" data-content-guid="u1553_content"><!-- group -->
         <div class="clearfix grpelem" id="u208-7"><!-- content -->
@@ -612,9 +612,7 @@ z-index: 99999999;
 	
      </div>
      <div class="museBGSize shared_content" id="u5867" data-content-guid="u5867_content"><!-- simple frame --></div>
-     <div class="clip_frame" id="u12222"><!-- svg -->
-      <img class="svg temp_no_img_src" id="u12218" data-orig-src="images/logodll2.svg?crc=246441052" width="54" height="39" alt="" data-mu-svgfallback="images/logodll2_poster_.png?crc=3878884964" src="images/blank.gif?crc=4208392903"/>
-     </div>
+     <a class="nonblock nontext anim_swing clip_frame" id="u12222" href="index.html#block3"><!-- svg --><img class="svg temp_no_img_src" id="u12218" data-orig-src="images/logodll2.svg?crc=246441052" width="65" height="47" alt="" data-mu-svgfallback="images/logodll2_poster_.png?crc=3878884964" src="images/blank.gif?crc=4208392903"/></a>
     </div>
     <div class="verticalspacer" data-offset-top="2883" data-content-above-spacer="2882" data-content-below-spacer="0"></div>
    </div>
@@ -630,15 +628,12 @@ z-index: 99999999;
      <span class="anchor_item colelem placeholder" data-placeholder-for="block1_content"><!-- placeholder node --></span>
      <span class="anchor_item colelem placeholder" data-placeholder-for="block2_content"><!-- placeholder node --></span>
     </div>
-    <div class="clearfix grpelem temp_no_id" data-orig-id="pu110"><!-- column -->
-     <div class="museBGSize clearfix colelem temp_no_id" data-orig-id="u110"><!-- group -->
-      <div class="museBGSize clearfix grpelem temp_no_id" data-orig-id="u94"><!-- group -->
-       <span class="size_fixed grpelem placeholder" data-placeholder-for="u7246_content"><!-- placeholder node --></span>
-       <div class="clearfix grpelem" id="pu1553"><!-- column -->
-        <span class="clearfix colelem placeholder" data-placeholder-for="u1553_content"><!-- placeholder node --></span>
-        <span class="nonblock nontext Button rounded-corners transition clearfix colelem placeholder" data-placeholder-for="buttonu6944_content"><!-- placeholder node --></span>
-       </div>
-      </div>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ppu110"><!-- column -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu110"><!-- group -->
+      <span class="museBGSize grpelem placeholder" data-placeholder-for="u110_content"><!-- placeholder node --></span>
+      <span class="size_fixed grpelem placeholder" data-placeholder-for="u7246_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u1553_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext Button rounded-corners transition clearfix grpelem placeholder" data-placeholder-for="buttonu6944_content"><!-- placeholder node --></span>
      </div>
      <div class="clearfix colelem" id="pu269"><!-- group -->
       <div class="browser_width grpelem" id="u269-bw">
@@ -660,11 +655,10 @@ z-index: 99999999;
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block3_content"><!-- placeholder node --></span>
      </div>
     </div>
-    <div class="clearfix grpelem shared_content" id="pu5867" data-content-guid="pu5867_content"><!-- group -->
+    <div class="clearfix grpelem" id="pu94"><!-- group -->
+     <div class="museBGSize temp_no_id" data-orig-id="u94"><!-- simple frame --></div>
      <span class="museBGSize placeholder" data-placeholder-for="u5867_content"><!-- placeholder node --></span>
-     <div class="clip_frame temp_no_id shared_content" data-orig-id="u12222" data-content-guid="u12222_content"><!-- svg -->
-      <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/logodll2.svg?crc=246441052" width="70" height="50" alt="" data-mu-svgfallback="images/logodll2_poster_.png?crc=3878884964" data-orig-id="u12218" src="images/blank.gif?crc=4208392903"/>
-     </div>
+     <a class="nonblock nontext anim_swing clip_frame temp_no_id" href="index.html#block3" data-orig-id="u12222"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/logodll2.svg?crc=246441052" width="70" height="50" alt="" data-mu-svgfallback="images/logodll2_poster_.png?crc=3878884964" data-orig-id="u12218" src="images/blank.gif?crc=4208392903"/></a>
     </div>
     <span class="size_fixed grpelem placeholder" data-placeholder-for="u3588_content"><!-- placeholder node --></span>
     <div class="verticalspacer" data-offset-top="2758" data-content-above-spacer="2758" data-content-below-spacer="0"></div>
@@ -682,7 +676,7 @@ z-index: 99999999;
      <div class="museBGSize clearfix colelem temp_no_id" data-orig-id="u110"><!-- group -->
       <div class="museBGSize clearfix grpelem temp_no_id" data-orig-id="u94"><!-- group -->
        <span class="size_fixed grpelem placeholder" data-placeholder-for="u7246_content"><!-- placeholder node --></span>
-       <div class="clearfix grpelem temp_no_id" data-orig-id="pu1553"><!-- column -->
+       <div class="clearfix grpelem" id="pu1553"><!-- column -->
         <span class="clearfix colelem placeholder" data-placeholder-for="u1553_content"><!-- placeholder node --></span>
         <span class="nonblock nontext transition rounded-corners clearfix colelem placeholder" data-placeholder-for="u6820-4_content"><!-- placeholder node --></span>
        </div>
@@ -704,7 +698,10 @@ z-index: 99999999;
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block3_content"><!-- placeholder node --></span>
      </div>
     </div>
-    <span class="clearfix grpelem placeholder" data-placeholder-for="pu5867_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem" id="pu5867"><!-- group -->
+     <span class="museBGSize placeholder" data-placeholder-for="u5867_content"><!-- placeholder node --></span>
+     <a class="nonblock nontext anim_swing clip_frame temp_no_id" href="index.html#block3" data-orig-id="u12222"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/logodll2.svg?crc=246441052" width="53" height="38" alt="" data-mu-svgfallback="images/logodll2_poster_.png?crc=3878884964" data-orig-id="u12218" src="images/blank.gif?crc=4208392903"/></a>
+    </div>
     <span class="size_fixed grpelem placeholder" data-placeholder-for="u3588_content"><!-- placeholder node --></span>
     <div class="verticalspacer" data-offset-top="2270" data-content-above-spacer="2270" data-content-below-spacer="0"></div>
    </div>
@@ -743,7 +740,10 @@ z-index: 99999999;
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block3_content"><!-- placeholder node --></span>
      </div>
     </div>
-    <span class="clearfix grpelem placeholder" data-placeholder-for="pu5867_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu5867"><!-- group -->
+     <span class="museBGSize placeholder" data-placeholder-for="u5867_content"><!-- placeholder node --></span>
+     <a class="nonblock nontext anim_swing clip_frame temp_no_id" href="index.html#block3" data-orig-id="u12222"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/logodll2.svg?crc=246441052" width="50" height="36" alt="" data-mu-svgfallback="images/logodll2_poster_.png?crc=3878884964" data-orig-id="u12218" src="images/blank.gif?crc=4208392903"/></a>
+    </div>
     <span class="size_fixed grpelem placeholder" data-placeholder-for="u3588_content"><!-- placeholder node --></span>
     <div class="verticalspacer" data-offset-top="2134" data-content-above-spacer="3359" data-content-below-spacer="1315"></div>
    </div>
@@ -784,7 +784,10 @@ z-index: 99999999;
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block3_content"><!-- placeholder node --></span>
      </div>
     </div>
-    <span class="clearfix grpelem placeholder" data-placeholder-for="pu5867_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu5867"><!-- group -->
+     <span class="museBGSize placeholder" data-placeholder-for="u5867_content"><!-- placeholder node --></span>
+     <a class="nonblock nontext anim_swing clip_frame temp_no_id shared_content" href="index.html#block3" data-orig-id="u12222" data-content-guid="u12222_content"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/logodll2.svg?crc=246441052" width="45" height="32" alt="" data-mu-svgfallback="images/logodll2_poster_.png?crc=3878884964" data-orig-id="u12218" src="images/blank.gif?crc=4208392903"/></a>
+    </div>
     <span class="size_fixed grpelem placeholder" data-placeholder-for="u3588_content"><!-- placeholder node --></span>
     <div class="verticalspacer" data-offset-top="1915" data-content-above-spacer="1914" data-content-below-spacer="0"></div>
    </div>
@@ -825,7 +828,7 @@ z-index: 99999999;
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block3_content"><!-- placeholder node --></span>
      </div>
     </div>
-    <span class="clip_frame placeholder" data-placeholder-for="u12222_content"><!-- placeholder node --></span>
+    <span class="nonblock nontext anim_swing clip_frame placeholder" data-placeholder-for="u12222_content"><!-- placeholder node --></span>
     <div class="verticalspacer" data-offset-top="1557" data-content-above-spacer="1556" data-content-below-spacer="0"></div>
     <span class="museBGSize grpelem placeholder" data-placeholder-for="u5867_content"><!-- placeholder node --></span>
     <span class="size_fixed grpelem placeholder" data-placeholder-for="u3588_content"><!-- placeholder node --></span>
@@ -861,14 +864,6 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-30.8],"speed":[0,0]},{"in":[-30.8,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_960').one('muse_this_bp_activate', function(){
-$('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-555.41],"speed":[0,0]},{"in":[-555.41,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1280').one('muse_this_bp_activate', function(){
 $('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-380.58],"speed":[0,0]},{"in":[-380.58,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
@@ -877,13 +872,21 @@ $('#bp_1200').one('muse_this_bp_activate', function(){
 $('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-456.79],"speed":[0,0]},{"in":[-456.79,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_1700').one('muse_this_bp_activate', function(){
-$('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-150.04],"speed":[0,0]},{"in":[-150.04,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1400').one('muse_this_bp_activate', function(){
 $('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-315.02],"speed":[0,0]},{"in":[-315.02,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_960').one('muse_this_bp_activate', function(){
+$('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-555.41],"speed":[0,0]},{"in":[-555.41,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1700').one('muse_this_bp_activate', function(){
+$('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-150.04],"speed":[0,0]},{"in":[-150.04,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-30.8],"speed":[0,0]},{"in":[-30.8,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
