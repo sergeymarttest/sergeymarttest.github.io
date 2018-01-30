@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517344439683">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517345057202">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4142770922" ref="index"/>
     <file name="nomq_index.css" crc="462358367" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="cytellect.css" crc="4038673363" ref="cytellect"/>
-    <file name="nomq_cytellect.css" crc="349961143" ref="cytellect"/>
+    <file name="cytellect.css" crc="491453402" ref="cytellect"/>
+    <file name="nomq_cytellect.css" crc="3956143338" ref="cytellect"/>
     <file name="kara.css" crc="435988069" ref="kara"/>
     <file name="nomq_kara.css" crc="3925006168" ref="kara"/>
   </folder>
@@ -252,24 +252,32 @@
     </file>
     <file name="4wqrqw385x473.jpg" crc="270245872" seo="true" ref="cytellect">
       <caption webpage="cytellect" alt=""/>
-      <caption webpage="cytellect" alt=""/>
     </file>
     <file name="1332x467.jpg" crc="3944186762" seo="true" ref="cytellect">
-      <caption webpage="cytellect" alt=""/>
       <caption webpage="cytellect" alt=""/>
     </file>
     <file name="5398x483.jpg" crc="134409787" seo="true" ref="cytellect">
       <caption webpage="cytellect" alt=""/>
-      <caption webpage="cytellect" alt=""/>
     </file>
     <file name="6339x485.jpg" crc="3884902" seo="true" ref="cytellect">
-      <caption webpage="cytellect" alt=""/>
       <caption webpage="cytellect" alt=""/>
     </file>
     <file name="7-crop-u10777.png" crc="4220689815" seo="true" ref="cytellect">
       <caption webpage="cytellect" alt=""/>
     </file>
-    <file name="7-crop-u107772.png" crc="4220689815" seo="true" ref="cytellect">
+    <file name="7-crop-u107772.png" crc="4209442001" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="4wqrqw395x486.jpg" crc="3833064106" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="1341x479.jpg" crc="3986775562" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="5410x498.jpg" crc="3848358691" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="6348x497.jpg" crc="383015108" seo="true" ref="cytellect">
       <caption webpage="cytellect" alt=""/>
     </file>
   </folder>
@@ -282,5 +290,5 @@
   </folder>
   <file name="index.html" crc="3938991655" seo="true" mt="1517340838272" redirect="true"/>
   <file name="kara.html" crc="456430717" seo="true" mt="1517342730070" redirect="true"/>
-  <file name="cytellect.html" crc="360031568" seo="true" mt="1517344408887" redirect="true"/>
+  <file name="cytellect.html" crc="4093003963" seo="true" mt="1517345013432" redirect="true"/>
 </manifest>
