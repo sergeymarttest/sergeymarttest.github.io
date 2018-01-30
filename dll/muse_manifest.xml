@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517345057202">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517345756253">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4142770922" ref="index"/>
     <file name="nomq_index.css" crc="462358367" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="cytellect.css" crc="491453402" ref="cytellect"/>
-    <file name="nomq_cytellect.css" crc="3956143338" ref="cytellect"/>
+    <file name="cytellect.css" crc="343917992" ref="cytellect"/>
+    <file name="nomq_cytellect.css" crc="67150067" ref="cytellect"/>
     <file name="kara.css" crc="435988069" ref="kara"/>
     <file name="nomq_kara.css" crc="3925006168" ref="kara"/>
   </folder>
@@ -150,7 +150,6 @@
       <caption webpage="cytellect" alt=""/>
       <caption webpage="cytellect" alt=""/>
       <caption webpage="cytellect" alt=""/>
-      <caption webpage="cytellect" alt=""/>
     </file>
     <file name="2432gge.png" crc="4091595857" seo="true" ref="cytellect">
       <caption webpage="cytellect" alt=""/>
@@ -280,6 +279,7 @@
     <file name="6348x497.jpg" crc="383015108" seo="true" ref="cytellect">
       <caption webpage="cytellect" alt=""/>
     </file>
+    <file name="1244-u9158-fr.jpg" crc="3873687444" ref="cytellect"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -290,5 +290,5 @@
   </folder>
   <file name="index.html" crc="3938991655" seo="true" mt="1517340838272" redirect="true"/>
   <file name="kara.html" crc="456430717" seo="true" mt="1517342730070" redirect="true"/>
-  <file name="cytellect.html" crc="4093003963" seo="true" mt="1517345013432" redirect="true"/>
+  <file name="cytellect.html" crc="3913342238" seo="true" mt="1517345708428" redirect="true"/>
 </manifest>
