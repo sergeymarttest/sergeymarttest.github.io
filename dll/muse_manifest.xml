@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517347845298">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517350173778">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4142770922" ref="index"/>
-    <file name="nomq_index.css" crc="462358367" ref="index"/>
+    <file name="index.css" crc="4171353104" ref="index"/>
+    <file name="nomq_index.css" crc="4062020739" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="cytellect.css" crc="356269291" ref="cytellect"/>
-    <file name="nomq_cytellect.css" crc="404869872" ref="cytellect"/>
+    <file name="cytellect.css" crc="22319922" ref="cytellect"/>
+    <file name="nomq_cytellect.css" crc="4080441952" ref="cytellect"/>
     <file name="kara.css" crc="4006032692" ref="kara"/>
     <file name="nomq_kara.css" crc="3925006168" ref="kara"/>
   </folder>
@@ -290,7 +290,7 @@
     </folder>
     <file name="index.html" crc="4154017538" seo="true" mt="1517347744902" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3938991655" seo="true" mt="1517340838272" redirect="true"/>
+  <file name="index.html" crc="4121316901" seo="true" mt="1517349760997" redirect="true"/>
   <file name="kara.html" crc="136926410" seo="true" mt="1517347246362" redirect="true"/>
-  <file name="cytellect.html" crc="534764670" seo="true" mt="1517347829063" redirect="true"/>
+  <file name="cytellect.html" crc="445838951" seo="true" mt="1517350149241" redirect="true"/>
 </manifest>
