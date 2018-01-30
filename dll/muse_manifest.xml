@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517347363703">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517347845298">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4142770922" ref="index"/>
     <file name="nomq_index.css" crc="462358367" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="cytellect.css" crc="116942855" ref="cytellect"/>
-    <file name="nomq_cytellect.css" crc="4146342691" ref="cytellect"/>
+    <file name="cytellect.css" crc="356269291" ref="cytellect"/>
+    <file name="nomq_cytellect.css" crc="404869872" ref="cytellect"/>
     <file name="kara.css" crc="4006032692" ref="kara"/>
     <file name="nomq_kara.css" crc="3925006168" ref="kara"/>
   </folder>
@@ -38,6 +38,7 @@
     <file name="32tfg237.jpg" crc="4091084439" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index:kara:cytellect"/>
     <file name="logodll.svg" crc="342336438" seo="true" ref="phone>index">
@@ -47,7 +48,7 @@
     </file>
     <file name="logodll_poster_.png" crc="4050911321" ref="phone>index"/>
     <file name="7-u11908-fr.png" crc="4174694612" ref="phone>index"/>
-    <file name="7-u11908-fr2.png" crc="4020297040" ref="phone>index"/>
+    <file name="7-u11908-fr2.png" crc="3892117319" ref="phone>index"/>
     <file name="wallhaven-299233264323.png" crc="196082216" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -284,12 +285,12 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4011919331" ref="phone>index"/>
+      <file name="index.css" crc="3868825717" ref="phone>index"/>
       <file name="nomq_index.css" crc="4075672425" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4051956333" seo="true" mt="1517347328700" redirect="true"/>
+    <file name="index.html" crc="4154017538" seo="true" mt="1517347744902" redirect="true"/>
   </folder>
   <file name="index.html" crc="3938991655" seo="true" mt="1517340838272" redirect="true"/>
   <file name="kara.html" crc="136926410" seo="true" mt="1517347246362" redirect="true"/>
-  <file name="cytellect.html" crc="4118923802" seo="true" mt="1517346348305" redirect="true"/>
+  <file name="cytellect.html" crc="534764670" seo="true" mt="1517347829063" redirect="true"/>
 </manifest>
