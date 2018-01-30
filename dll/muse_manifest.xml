@@ -1,0 +1,286 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517328461955">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="369779667" ref="index"/>
+    <file name="nomq_index.css" crc="435361558" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="cytellect.css" crc="3997797508" ref="cytellect"/>
+    <file name="nomq_cytellect.css" crc="3934566324" ref="cytellect"/>
+    <file name="kara.css" crc="301229883" ref="kara"/>
+    <file name="nomq_kara.css" crc="4155066977" ref="kara"/>
+  </folder>
+  <folder name="fonts">
+    <file name="geometria-thin.woff" crc="3976705136"/>
+    <file name="geometria-thin.eot" crc="4181646953"/>
+    <file name="geometria-thin.svg" crc="267264343"/>
+    <file name="geometria-light.woff" crc="4071981005"/>
+    <file name="geometria-light.eot" crc="380979432"/>
+    <file name="geometria-light.svg" crc="448749515"/>
+  </folder>
+  <folder name="assets">
+    <file name="preloader.gif" crc="298002628" seo="true" mt="1514427843000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:kara:cytellect"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:index:kara:cytellect"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:kara:cytellect"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:index:kara:cytellect"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:index:kara:cytellect"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:index:kara:cytellect"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="phone>index:index:kara:cytellect"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:index:kara:cytellect"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="wallhaven-29964323.png" crc="4291375911" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32tfg237.jpg" crc="531767322" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index:kara:cytellect"/>
+    <file name="logodll.svg" crc="342336438" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logodll_poster_.png" crc="4050911321" ref="phone>index"/>
+    <file name="7-u11908-fr.png" crc="432441824" ref="phone>index"/>
+    <file name="wallhaven-299233264323.png" crc="196082216" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kara1.png" crc="4196224532" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cyt.png" crc="4261678401" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cyt.gif" crc="4142728721" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scrol.svg" crc="188970913" ref="index"/>
+    <file name="scrol_poster_u5875.png" crc="3770435330" ref="index"/>
+    <file name="logodll2.svg" crc="246441052" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logodll2_poster_.png" crc="3878884964" ref="index"/>
+    <file name="kara1-u94-fr.png" crc="480288613" ref="index"/>
+    <file name="cyt-u486-fr.png" crc="3993480201" ref="index"/>
+    <file name="kara2.png" crc="17565982" seo="true" ref="kara">
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="logo1.png" crc="4036776600" seo="true" ref="kara">
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="kara14.png" crc="4149514597" seo="true" ref="kara">
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="kara13.png" crc="4180461682" seo="true" ref="kara">
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="logo 3.png" crc="4160368449" seo="true" ref="kara">
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="kara12.png" crc="4257632481" seo="true" ref="kara">
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="kara250x70.png" crc="146344799" seo="true" ref="kara">
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="scro2l.svg" crc="97974659" ref="kara:cytellect"/>
+    <file name="scro2l_poster_u10910.png" crc="132712711" ref="kara:cytellect"/>
+    <file name="kara2284x389.png" crc="3801578755" seo="true" ref="kara">
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="logo 3297x246.png" crc="4281369658" seo="true" ref="kara">
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="1244.jpg" crc="3987590666" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="2432gge.png" crc="4091595857" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="23666.jpg" crc="4273577665" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="23516.jpg" crc="4087823763" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="4wqrqw.jpg" crc="4144974606" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="1.jpg" crc="112742712" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="13567.jpg" crc="268616877" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4180380550" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="6.jpg" crc="4088908204" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="7.png" crc="181967103" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="4wqrqw700x861.jpg" crc="463149067" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="5-crop-u10132.jpg" crc="230576011" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="4wqrqw641x788.jpg" crc="4269228624" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="4wqrqw385x473.jpg" crc="270245872" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="1332x467.jpg" crc="3944186762" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="5398x483.jpg" crc="134409787" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="6339x485.jpg" crc="3884902" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="7-crop-u10777.png" crc="4220689815" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+    </file>
+    <file name="7-crop-u107772.png" crc="4220689815" seo="true" ref="cytellect">
+      <caption webpage="cytellect" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="532495592" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3858754460" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4171561151" seo="true" mt="1517328302458" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4232715232" seo="true" mt="1517328418598" redirect="true"/>
+  <file name="kara.html" crc="4156683120" seo="true" mt="1517323827108" redirect="true"/>
+  <file name="cytellect.html" crc="342973138" seo="true" mt="1517326982012" redirect="true"/>
+</manifest>
