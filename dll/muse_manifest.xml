@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517341147077">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517342738024">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4142770922" ref="index"/>
     <file name="nomq_index.css" crc="462358367" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="cytellect.css" crc="6949118" ref="cytellect"/>
-    <file name="nomq_cytellect.css" crc="298205006" ref="cytellect"/>
-    <file name="kara.css" crc="97879955" ref="kara"/>
+    <file name="cytellect.css" crc="103456577" ref="cytellect"/>
+    <file name="nomq_cytellect.css" crc="3792291495" ref="cytellect"/>
+    <file name="kara.css" crc="435988069" ref="kara"/>
     <file name="nomq_kara.css" crc="3925006168" ref="kara"/>
   </folder>
   <folder name="fonts">
@@ -275,12 +275,12 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4027228589" ref="phone>index"/>
+      <file name="index.css" crc="3851877131" ref="phone>index"/>
       <file name="nomq_index.css" crc="4075672425" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="162085091" seo="true" mt="1517341076710" redirect="true"/>
+    <file name="index.html" crc="257896693" seo="true" mt="1517342421408" redirect="true"/>
   </folder>
   <file name="index.html" crc="3938991655" seo="true" mt="1517340838272" redirect="true"/>
-  <file name="kara.html" crc="4156640481" seo="true" mt="1517339938075" redirect="true"/>
-  <file name="cytellect.html" crc="4267199466" seo="true" mt="1517339706586" redirect="true"/>
+  <file name="kara.html" crc="456430717" seo="true" mt="1517342730070" redirect="true"/>
+  <file name="cytellect.html" crc="286505232" seo="true" mt="1517342546200" redirect="true"/>
 </manifest>
