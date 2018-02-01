@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517350173778">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517511451859">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4171353104" ref="index"/>
-    <file name="nomq_index.css" crc="4062020739" ref="index"/>
+    <file name="index.css" crc="4023508702" ref="index"/>
+    <file name="nomq_index.css" crc="198151620" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="cytellect.css" crc="22319922" ref="cytellect"/>
     <file name="nomq_cytellect.css" crc="4080441952" ref="cytellect"/>
-    <file name="kara.css" crc="4006032692" ref="kara"/>
-    <file name="nomq_kara.css" crc="3925006168" ref="kara"/>
+    <file name="kara.css" crc="3958896697" ref="kara"/>
+    <file name="nomq_kara.css" crc="91490250" ref="kara"/>
   </folder>
   <folder name="fonts">
     <file name="geometria-thin.woff" crc="3976705136"/>
@@ -30,14 +30,14 @@
     <file name="jquery.museresponsive.js" crc="3955820958" ref="phone>index:index:kara:cytellect"/>
     <file name="require.js" crc="4157109226" ref="phone>index:index:kara:cytellect"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u15703.php" crc="4060888187" ref="index"/>
   </folder>
   <folder name="images">
     <file name="wallhaven-29964323.png" crc="4291375911" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="32tfg237.jpg" crc="4091084439" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index:kara:cytellect"/>
@@ -50,9 +50,6 @@
     <file name="7-u11908-fr.png" crc="4174694612" ref="phone>index"/>
     <file name="7-u11908-fr2.png" crc="3892117319" ref="phone>index"/>
     <file name="wallhaven-299233264323.png" crc="196082216" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="kara1.png" crc="4196224532" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cyt.png" crc="4261678401" ref="index">
@@ -73,77 +70,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="logodll2_poster_.png" crc="3878884964" ref="index"/>
-    <file name="kara1-u94-fr.png" crc="480288613" ref="index"/>
     <file name="cyt-u486-fr.png" crc="3993480201" ref="index"/>
-    <file name="kara2.png" crc="17565982" seo="true" ref="kara">
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-    </file>
-    <file name="logo1.png" crc="4036776600" seo="true" ref="kara">
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-    </file>
-    <file name="kara14.png" crc="4149514597" seo="true" ref="kara">
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-    </file>
-    <file name="kara13.png" crc="4180461682" seo="true" ref="kara">
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-    </file>
-    <file name="logo 3.png" crc="4160368449" seo="true" ref="kara">
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-    </file>
-    <file name="kara12.png" crc="4257632481" seo="true" ref="kara">
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-    </file>
-    <file name="kara250x70.png" crc="146344799" seo="true" ref="kara">
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
-    </file>
     <file name="scro2l.svg" crc="97974659" ref="kara:cytellect"/>
     <file name="scro2l_poster_u10910.png" crc="132712711" ref="kara:cytellect"/>
-    <file name="kara2284x389.png" crc="3801578755" seo="true" ref="kara">
-      <caption webpage="kara" alt=""/>
-    </file>
-    <file name="logo 3297x246.png" crc="4281369658" seo="true" ref="kara">
-      <caption webpage="kara" alt=""/>
-    </file>
     <file name="1244.jpg" crc="3987590666" ref="cytellect">
       <caption webpage="cytellect" alt=""/>
       <caption webpage="cytellect" alt=""/>
@@ -282,15 +211,73 @@
     </file>
     <file name="1244-u9158-fr.jpg" crc="3873687444" ref="cytellect"/>
     <file name="7-u11908-fr3.png" crc="432441824" ref="phone>index"/>
+    <file name="cywveef2t.jpg" crc="403322013" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cywef2t.png" crc="377986384" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cywef2t-u94-fr.png" crc="98808157" ref="index"/>
+    <file name="logokara.svg" crc="108316796" seo="true" ref="kara">
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="logokara_poster_.png" crc="4009353481" ref="kara"/>
+    <file name="kara5.gif" crc="4092173135" ref="kara">
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="6223436.jpg" crc="4249407623" ref="kara">
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="logo 4.png" crc="4146603988" seo="true" ref="kara">
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="kara235235.png" crc="4143264922" ref="kara">
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="dgfwewe1.jpg" crc="334069193" ref="kara">
+      <caption webpage="kara" alt=""/>
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="dgfwewe1-u15305-fr.jpg" crc="381157393" ref="kara"/>
+    <file name="6223436-u14510-fr.jpg" crc="3878758234" ref="kara"/>
+    <file name="dgfwewe1-u15305-fr2.jpg" crc="3976426485" ref="kara"/>
+    <file name="dgfwewe1-u15305-fr3.jpg" crc="362536622" ref="kara"/>
+    <file name="6223436-u14510-fr2.jpg" crc="4223100444" ref="kara"/>
+    <file name="logo 4365x306.png" crc="130986473" seo="true" ref="kara">
+      <caption webpage="kara" alt=""/>
+    </file>
+    <file name="kara235235-u15027-fr.png" crc="326520389" ref="kara"/>
+    <file name="dgfwewe1-u15305-fr4.jpg" crc="4186543343" ref="kara"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3868825717" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4075672425" ref="phone>index"/>
+      <file name="index.css" crc="272105438" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3834735800" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4154017538" seo="true" mt="1517347744902" redirect="true"/>
+    <file name="index.html" crc="294217995" seo="true" mt="1517511442567" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4121316901" seo="true" mt="1517349760997" redirect="true"/>
-  <file name="kara.html" crc="136926410" seo="true" mt="1517347246362" redirect="true"/>
+  <file name="index.html" crc="90850108" seo="true" mt="1517511287860" redirect="true"/>
+  <file name="kara.html" crc="3938447121" seo="true" mt="1517511273321" redirect="true"/>
   <file name="cytellect.html" crc="445838951" seo="true" mt="1517350149241" redirect="true"/>
 </manifest>

@@ -16,25 +16,25 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "webpro.js", "jquery.scrolleffects.js", "index.css"], "outOfDate":[]};
 </script>
   
   <link media="only screen and (max-width: 370px)" rel="alternate" href="http://sergeymarttest.github.io/dll/phone/index.html"/>
   <title>Домашняя</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4171353104" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4023508702" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=3824530138"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=4062020739" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=198151620" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
-  <script src="https://webfonts.creativecloud.com/open-sans:n7,n3:all.js" type="text/javascript"></script>
+  <script src="https://webfonts.creativecloud.com/open-sans:n7,n3:all;lato:n4,n7:all.js" type="text/javascript"></script>
     <!--HTML Widget code-->
   
   <style type="text/css">.foop {transition: all 500ms;}body {opacity: 1;margin-left: 0;transition: all 500ms;transition-timing-function: linear;}#u1042 {top: -4300px;}html {overflow: hidden !important;} </style>  
@@ -573,7 +573,7 @@ z-index: 99999999;
        <a class="nonblock nontext Button rounded-corners transition clearfix colelem shared_content" id="buttonu6944" href="cytellect.html" data-content-guid="buttonu6944_content"><!-- container box --><div class="clearfix grpelem" id="u6945-4"><!-- content --><p>Описание проекта</p></div></a>
       </div>
      </div>
-     <div class="transition clearfix colelem shared_content" id="u457" data-content-guid="u457_content"><!-- group -->
+     <div class="transition clearfix colelem" id="u457"><!-- group -->
       <div class="size_fixed grpelem shared_content" id="u1042" data-content-guid="u1042_content"><!-- custom html -->
        
 
@@ -585,14 +585,16 @@ z-index: 99999999;
 
 
       </div>
-      <div class="clearfix grpelem shared_content" id="u1630" data-content-guid="u1630_content"><!-- group -->
-       <div class="clearfix grpelem" id="u362-5"><!-- content -->
-        <p id="u362-2">Контакты</p>
-        <p id="u362-3">&nbsp;</p>
-       </div>
-      </div>
-      <div class="size_fixed grpelem shared_content" id="u3588" data-content-guid="u3588_content"><!-- custom html -->
-       
+      <div class="clearfix grpelem" id="ppu1630"><!-- column -->
+       <div class="clearfix colelem" id="pu1630"><!-- group -->
+        <div class="clearfix grpelem shared_content" id="u1630" data-content-guid="u1630_content"><!-- group -->
+         <div class="clearfix grpelem" id="u362-5"><!-- content -->
+          <p id="u362-2">Контакты</p>
+          <p id="u362-3">&nbsp;</p>
+         </div>
+        </div>
+        <div class="size_fixed grpelem shared_content" id="u3588" data-content-guid="u3588_content"><!-- custom html -->
+         
 
 
 <div class="qooqeesl">
@@ -602,6 +604,33 @@ z-index: 99999999;
 </div>
 
 
+        </div>
+       </div>
+       <form class="form-grp clearfix colelem" id="widgetu15703" method="post" enctype="multipart/form-data" action="scripts/form-u15703.php"><!-- none box -->
+        <div class="fld-grp clearfix grpelem" id="widgetu15719" data-required="true"><!-- none box -->
+         <span class="fld-input NoWrap actAsDiv transition clearfix grpelem" id="u15721-4"><!-- content --><input class="wrapped-input shared_content" type="text" spellcheck="false" id="widgetu15719_input" name="custom_U15719" tabindex="1" data-content-guid="widgetu15719_input_content"/><label class="wrapped-input fld-prompt" id="widgetu15719_prompt" for="widgetu15719_input"><span class="actAsPara shared_content" data-content-guid="widgetu15719_prompt_0_content">Enter Name</span></label></span>
+        </div>
+        <div class="fld-grp clearfix grpelem" id="widgetu15723" data-required="true" data-type="email"><!-- none box -->
+         <span class="fld-input NoWrap actAsDiv transition clearfix grpelem" id="u15725-4"><!-- content --><input class="wrapped-input shared_content" type="email" spellcheck="false" id="widgetu15723_input" name="Email" tabindex="2" data-content-guid="widgetu15723_input_content"/><label class="wrapped-input fld-prompt" id="widgetu15723_prompt" for="widgetu15723_input"><span class="actAsPara shared_content" data-content-guid="widgetu15723_prompt_0_content">Enter Email</span></label></span>
+        </div>
+        <div class="clearfix grpelem" id="u15705-4"><!-- content -->
+         <p class="shared_content" data-content-guid="u15705-4_0_content">Submitting Form...</p>
+        </div>
+        <div class="clearfix grpelem" id="u15718-4"><!-- content -->
+         <p class="shared_content" data-content-guid="u15718-4_0_content">The server encountered an error.</p>
+        </div>
+        <div class="clearfix grpelem" id="u15704-4"><!-- content -->
+         <p class="shared_content" data-content-guid="u15704-4_0_content">Form received.</p>
+        </div>
+        <button class="submit-btn NoWrap transition clearfix grpelem" id="u15727-4" type="submit" value="Submit" tabindex="4"><!-- content -->
+         <div style="margin-top:-18px;height:18px;" class="shared_content" data-content-guid="u15727-4_0_content">
+          <p>Submit</p>
+         </div>
+        </button>
+        <div class="fld-grp clearfix grpelem" id="widgetu15714" data-required="false"><!-- none box -->
+         <span class="fld-textarea actAsDiv transition clearfix grpelem" id="u15717-4"><!-- content --><textarea class="wrapped-input shared_content" id="widgetu15714_input" name="custom_U15714" tabindex="3" data-content-guid="widgetu15714_input_content"></textarea><label class="wrapped-input fld-prompt" id="widgetu15714_prompt" for="widgetu15714_input"><span class="actAsPara shared_content" data-content-guid="widgetu15714_prompt_0_content">Enter Your Message</span></label></span>
+        </div>
+       </form>
       </div>
      </div>
     </div>
@@ -614,7 +643,7 @@ z-index: 99999999;
      <div class="museBGSize shared_content" id="u5867" data-content-guid="u5867_content"><!-- simple frame --></div>
      <a class="nonblock nontext MuseLinkActive clip_frame" id="u12222" href="index.html"><!-- svg --><img class="svg temp_no_img_src" id="u12218" data-orig-src="images/logodll2.svg?crc=246441052" width="65" height="47" alt="" data-mu-svgfallback="images/logodll2_poster_.png?crc=3878884964" src="images/blank.gif?crc=4208392903"/></a>
     </div>
-    <div class="verticalspacer" data-offset-top="2883" data-content-above-spacer="2882" data-content-below-spacer="0"></div>
+    <div class="verticalspacer" data-offset-top="2727" data-content-above-spacer="2726" data-content-below-spacer="0"></div>
    </div>
    <div class="preload_images">
     <img class="preload temp_no_img_src" data-orig-src="images/wallhaven-299233264323.png?crc=196082216" alt="" src="images/blank.gif?crc=4208392903"/>
@@ -644,15 +673,42 @@ z-index: 99999999;
       </div>
      </div>
      <div class="clearfix colelem" id="pu457"><!-- group -->
-      <span class="transition clearfix grpelem placeholder" data-placeholder-for="u457_content"><!-- placeholder node --></span>
+      <div class="transition clearfix grpelem temp_no_id" data-orig-id="u457"><!-- group -->
+       <span class="size_fixed grpelem placeholder" data-placeholder-for="u1042_content"><!-- placeholder node --></span>
+       <span class="clearfix grpelem placeholder" data-placeholder-for="u1630_content"><!-- placeholder node --></span>
+       <span class="size_fixed grpelem placeholder" data-placeholder-for="u3588_content"><!-- placeholder node --></span>
+      </div>
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block3_content"><!-- placeholder node --></span>
+      <form class="form-grp clearfix grpelem temp_no_id" method="post" enctype="multipart/form-data" action="scripts/form-u15703.php" data-orig-id="widgetu15703"><!-- none box -->
+       <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu15719"><!-- none box -->
+        <span class="fld-input NoWrap actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15721-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15719_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15719_input" data-orig-id="widgetu15719_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15719_prompt_0_content"><!-- placeholder node --></span></label></span>
+       </div>
+       <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="email" data-orig-id="widgetu15723"><!-- none box -->
+        <span class="fld-input NoWrap actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15725-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15723_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15723_input" data-orig-id="widgetu15723_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15723_prompt_0_content"><!-- placeholder node --></span></label></span>
+       </div>
+       <div class="clearfix grpelem temp_no_id" data-orig-id="u15705-4"><!-- content -->
+        <span class="placeholder" data-placeholder-for="u15705-4_0_content"><!-- placeholder node --></span>
+       </div>
+       <div class="clearfix grpelem temp_no_id" data-orig-id="u15718-4"><!-- content -->
+        <span class="placeholder" data-placeholder-for="u15718-4_0_content"><!-- placeholder node --></span>
+       </div>
+       <div class="clearfix grpelem temp_no_id" data-orig-id="u15704-4"><!-- content -->
+        <span class="placeholder" data-placeholder-for="u15704-4_0_content"><!-- placeholder node --></span>
+       </div>
+       <button class="submit-btn NoWrap transition clearfix grpelem temp_no_id" type="submit" value="Submit" tabindex="8" data-orig-id="u15727-4"><!-- content -->
+        <span class="placeholder" data-placeholder-for="u15727-4_0_content"><!-- placeholder node --></span>
+       </button>
+       <div class="fld-grp clearfix grpelem temp_no_id" data-required="false" data-orig-id="widgetu15714"><!-- none box -->
+        <span class="fld-textarea actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15717-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15714_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15714_input" data-orig-id="widgetu15714_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15714_prompt_0_content"><!-- placeholder node --></span></label></span>
+       </div>
+      </form>
      </div>
     </div>
     <div class="clearfix grpelem" id="pu5867"><!-- group -->
      <span class="museBGSize placeholder" data-placeholder-for="u5867_content"><!-- placeholder node --></span>
      <a class="nonblock nontext MuseLinkActive clip_frame temp_no_id" href="index.html" data-orig-id="u12222"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/logodll2.svg?crc=246441052" width="70" height="50" alt="" data-mu-svgfallback="images/logodll2_poster_.png?crc=3878884964" data-orig-id="u12218" src="images/blank.gif?crc=4208392903"/></a>
     </div>
-    <div class="verticalspacer" data-offset-top="2528" data-content-above-spacer="2527" data-content-below-spacer="0"></div>
+    <div class="verticalspacer" data-offset-top="2575" data-content-above-spacer="2574" data-content-below-spacer="0"></div>
    </div>
    <div class="preload_images">
     <img class="preload temp_no_img_src" data-orig-src="images/wallhaven-299233264323.png?crc=196082216" alt="" src="images/blank.gif?crc=4208392903"/>
@@ -688,13 +744,36 @@ z-index: 99999999;
       </div>
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block3_content"><!-- placeholder node --></span>
      </div>
+     <form class="form-grp clearfix colelem temp_no_id" method="post" enctype="multipart/form-data" action="scripts/form-u15703.php" data-orig-id="widgetu15703"><!-- none box -->
+      <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu15719"><!-- none box -->
+       <span class="fld-input NoWrap actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15721-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15719_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15719_input" data-orig-id="widgetu15719_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15719_prompt_0_content"><!-- placeholder node --></span></label></span>
+      </div>
+      <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="email" data-orig-id="widgetu15723"><!-- none box -->
+       <span class="fld-input NoWrap actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15725-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15723_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15723_input" data-orig-id="widgetu15723_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15723_prompt_0_content"><!-- placeholder node --></span></label></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u15705-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15705-4_0_content"><!-- placeholder node --></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u15718-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15718-4_0_content"><!-- placeholder node --></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u15704-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15704-4_0_content"><!-- placeholder node --></span>
+      </div>
+      <button class="submit-btn NoWrap transition clearfix grpelem temp_no_id" type="submit" value="Submit" tabindex="12" data-orig-id="u15727-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15727-4_0_content"><!-- placeholder node --></span>
+      </button>
+      <div class="fld-grp clearfix grpelem temp_no_id" data-required="false" data-orig-id="widgetu15714"><!-- none box -->
+       <span class="fld-textarea actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15717-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15714_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15714_input" data-orig-id="widgetu15714_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15714_prompt_0_content"><!-- placeholder node --></span></label></span>
+      </div>
+     </form>
     </div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu5867"><!-- group -->
      <span class="museBGSize placeholder" data-placeholder-for="u5867_content"><!-- placeholder node --></span>
      <a class="nonblock nontext MuseLinkActive clip_frame temp_no_id" href="index.html" data-orig-id="u12222"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/logodll2.svg?crc=246441052" width="53" height="38" alt="" data-mu-svgfallback="images/logodll2_poster_.png?crc=3878884964" data-orig-id="u12218" src="images/blank.gif?crc=4208392903"/></a>
     </div>
     <span class="size_fixed grpelem placeholder" data-placeholder-for="u3588_content"><!-- placeholder node --></span>
-    <div class="verticalspacer" data-offset-top="2079" data-content-above-spacer="2079" data-content-below-spacer="0"></div>
+    <div class="verticalspacer shared_content" data-offset-top="2575" data-content-above-spacer="2574" data-content-below-spacer="0" data-content-guid="page_5_content"></div>
    </div>
    <div class="preload_images">
     <img class="preload temp_no_img_src" data-orig-src="images/wallhaven-299233264323.png?crc=196082216" alt="" src="images/blank.gif?crc=4208392903"/>
@@ -730,13 +809,36 @@ z-index: 99999999;
       </div>
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block3_content"><!-- placeholder node --></span>
      </div>
+     <form class="form-grp clearfix colelem temp_no_id" method="post" enctype="multipart/form-data" action="scripts/form-u15703.php" data-orig-id="widgetu15703"><!-- none box -->
+      <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu15719"><!-- none box -->
+       <span class="fld-input NoWrap actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15721-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15719_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15719_input" data-orig-id="widgetu15719_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15719_prompt_0_content"><!-- placeholder node --></span></label></span>
+      </div>
+      <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="email" data-orig-id="widgetu15723"><!-- none box -->
+       <span class="fld-input NoWrap actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15725-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15723_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15723_input" data-orig-id="widgetu15723_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15723_prompt_0_content"><!-- placeholder node --></span></label></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u15705-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15705-4_0_content"><!-- placeholder node --></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u15718-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15718-4_0_content"><!-- placeholder node --></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u15704-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15704-4_0_content"><!-- placeholder node --></span>
+      </div>
+      <button class="submit-btn NoWrap transition clearfix grpelem temp_no_id" type="submit" value="Submit" tabindex="16" data-orig-id="u15727-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15727-4_0_content"><!-- placeholder node --></span>
+      </button>
+      <div class="fld-grp clearfix grpelem temp_no_id" data-required="false" data-orig-id="widgetu15714"><!-- none box -->
+       <span class="fld-textarea actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15717-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15714_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15714_input" data-orig-id="widgetu15714_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15714_prompt_0_content"><!-- placeholder node --></span></label></span>
+      </div>
+     </form>
     </div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu5867"><!-- group -->
      <span class="museBGSize placeholder" data-placeholder-for="u5867_content"><!-- placeholder node --></span>
      <a class="nonblock nontext MuseLinkActive clip_frame temp_no_id" href="index.html" data-orig-id="u12222"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/logodll2.svg?crc=246441052" width="50" height="36" alt="" data-mu-svgfallback="images/logodll2_poster_.png?crc=3878884964" data-orig-id="u12218" src="images/blank.gif?crc=4208392903"/></a>
     </div>
     <span class="size_fixed grpelem placeholder" data-placeholder-for="u3588_content"><!-- placeholder node --></span>
-    <div class="verticalspacer" data-offset-top="1849" data-content-above-spacer="1849" data-content-below-spacer="0"></div>
+    <span class="verticalspacer placeholder" data-placeholder-for="page_5_content"><!-- placeholder node --></span>
    </div>
    <div class="preload_images">
     <img class="preload temp_no_img_src" data-orig-src="images/wallhaven-299233264323.png?crc=196082216" alt="" src="images/blank.gif?crc=4208392903"/>
@@ -774,13 +876,36 @@ z-index: 99999999;
       </div>
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block3_content"><!-- placeholder node --></span>
      </div>
+     <form class="form-grp clearfix colelem temp_no_id" method="post" enctype="multipart/form-data" action="scripts/form-u15703.php" data-orig-id="widgetu15703"><!-- none box -->
+      <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu15719"><!-- none box -->
+       <span class="fld-input NoWrap actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15721-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15719_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15719_input" data-orig-id="widgetu15719_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15719_prompt_0_content"><!-- placeholder node --></span></label></span>
+      </div>
+      <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="email" data-orig-id="widgetu15723"><!-- none box -->
+       <span class="fld-input NoWrap actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15725-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15723_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15723_input" data-orig-id="widgetu15723_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15723_prompt_0_content"><!-- placeholder node --></span></label></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u15705-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15705-4_0_content"><!-- placeholder node --></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u15718-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15718-4_0_content"><!-- placeholder node --></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u15704-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15704-4_0_content"><!-- placeholder node --></span>
+      </div>
+      <button class="submit-btn NoWrap transition clearfix grpelem temp_no_id" type="submit" value="Submit" tabindex="20" data-orig-id="u15727-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15727-4_0_content"><!-- placeholder node --></span>
+      </button>
+      <div class="fld-grp clearfix grpelem temp_no_id" data-required="false" data-orig-id="widgetu15714"><!-- none box -->
+       <span class="fld-textarea actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15717-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15714_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15714_input" data-orig-id="widgetu15714_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15714_prompt_0_content"><!-- placeholder node --></span></label></span>
+      </div>
+     </form>
     </div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu5867"><!-- group -->
      <span class="museBGSize placeholder" data-placeholder-for="u5867_content"><!-- placeholder node --></span>
      <a class="nonblock nontext MuseLinkActive clip_frame temp_no_id shared_content" href="index.html" data-orig-id="u12222" data-content-guid="u12222_content"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/logodll2.svg?crc=246441052" width="45" height="32" alt="" data-mu-svgfallback="images/logodll2_poster_.png?crc=3878884964" data-orig-id="u12218" src="images/blank.gif?crc=4208392903"/></a>
     </div>
     <span class="size_fixed grpelem placeholder" data-placeholder-for="u3588_content"><!-- placeholder node --></span>
-    <div class="verticalspacer" data-offset-top="1915" data-content-above-spacer="1914" data-content-below-spacer="0"></div>
+    <div class="verticalspacer" data-offset-top="4375" data-content-above-spacer="4375" data-content-below-spacer="0"></div>
    </div>
    <div class="preload_images">
     <img class="preload temp_no_img_src" data-orig-src="images/wallhaven-299233264323.png?crc=196082216" alt="" src="images/blank.gif?crc=4208392903"/>
@@ -818,11 +943,34 @@ z-index: 99999999;
       </div>
       <span class="anchor_item grpelem placeholder" data-placeholder-for="block3_content"><!-- placeholder node --></span>
      </div>
+     <form class="form-grp clearfix colelem temp_no_id" method="post" enctype="multipart/form-data" action="scripts/form-u15703.php" data-orig-id="widgetu15703"><!-- none box -->
+      <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu15719"><!-- none box -->
+       <span class="fld-input NoWrap actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15721-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15719_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15719_input" data-orig-id="widgetu15719_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15719_prompt_0_content"><!-- placeholder node --></span></label></span>
+      </div>
+      <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="email" data-orig-id="widgetu15723"><!-- none box -->
+       <span class="fld-input NoWrap actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15725-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15723_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15723_input" data-orig-id="widgetu15723_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15723_prompt_0_content"><!-- placeholder node --></span></label></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u15705-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15705-4_0_content"><!-- placeholder node --></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u15718-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15718-4_0_content"><!-- placeholder node --></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u15704-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15704-4_0_content"><!-- placeholder node --></span>
+      </div>
+      <button class="submit-btn NoWrap transition clearfix grpelem temp_no_id" type="submit" value="Submit" tabindex="24" data-orig-id="u15727-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u15727-4_0_content"><!-- placeholder node --></span>
+      </button>
+      <div class="fld-grp clearfix grpelem temp_no_id" data-required="false" data-orig-id="widgetu15714"><!-- none box -->
+       <span class="fld-textarea actAsDiv transition clearfix grpelem temp_no_id" data-orig-id="u15717-4"><!-- content --><span class="wrapped-input placeholder" data-placeholder-for="widgetu15714_input_content"><!-- placeholder node --></span><label class="wrapped-input fld-prompt temp_no_id" for="widgetu15714_input" data-orig-id="widgetu15714_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu15714_prompt_0_content"><!-- placeholder node --></span></label></span>
+      </div>
+     </form>
     </div>
     <span class="nonblock nontext MuseLinkActive clip_frame placeholder" data-placeholder-for="u12222_content"><!-- placeholder node --></span>
-    <div class="verticalspacer" data-offset-top="1557" data-content-above-spacer="1556" data-content-below-spacer="0"></div>
-    <span class="museBGSize grpelem placeholder" data-placeholder-for="u5867_content"><!-- placeholder node --></span>
     <span class="size_fixed grpelem placeholder" data-placeholder-for="u3588_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="2575" data-content-above-spacer="2574" data-content-below-spacer="0"></div>
+    <span class="museBGSize grpelem placeholder" data-placeholder-for="u5867_content"><!-- placeholder node --></span>
    </div>
    <div class="preload_images">
     <img class="preload temp_no_img_src" data-orig-src="images/wallhaven-299233264323.png?crc=196082216" alt="" src="images/blank.gif?crc=4208392903"/>
@@ -847,35 +995,36 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Некоторые файлы на сервере могут отсутствовать или быть некорректными. Очистите кэш-память браузера и повторите попытку. Если проблему не удается устранить, свяжитесь с разработчиками сайта.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch","jquery.scrolleffects","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","webpro","jquery.watch","jquery.scrolleffects","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.initWidget('#widgetu15703', ['#bp_infinity', '#bp_1700', '#bp_1400', '#bp_1280', '#bp_1200', '#bp_960'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu15703 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-30.8],"speed":[0,0]},{"in":[-30.8,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
+$('#bp_960').one('muse_this_bp_activate', function(){
+$('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-555.41],"speed":[0,0]},{"in":[-555.41,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
 $('#bp_1400').one('muse_this_bp_activate', function(){
 $('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-315.02],"speed":[0,0]},{"in":[-315.02,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_1280').one('muse_this_bp_activate', function(){
-$('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-380.58],"speed":[0,0]},{"in":[-380.58,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_1700').one('muse_this_bp_activate', function(){
 $('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-150.04],"speed":[0,0]},{"in":[-150.04,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_960').one('muse_this_bp_activate', function(){
-$('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-555.41],"speed":[0,0]},{"in":[-555.41,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1200').one('muse_this_bp_activate', function(){
 $('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-456.79],"speed":[0,0]},{"in":[-456.79,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1280').one('muse_this_bp_activate', function(){
+$('#u94').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1080]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u486').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-380.58],"speed":[0,0]},{"in":[-380.58,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

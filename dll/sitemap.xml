@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://sergeymarttest.github.io/dll/index.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <lastmod>2018-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sergeymarttest.github.io/dll/phone/index.html"/>
@@ -12,35 +12,17 @@
   </url>
   <url>
     <loc>http://sergeymarttest.github.io/dll/kara.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sergeymarttest.github.io/dll/images/kara2.png</image:loc>
+      <image:loc>http://sergeymarttest.github.io/dll/images/logokara.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sergeymarttest.github.io/dll/images/logo1.png</image:loc>
+      <image:loc>http://sergeymarttest.github.io/dll/images/logo%204.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sergeymarttest.github.io/dll/images/kara14.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sergeymarttest.github.io/dll/images/kara13.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sergeymarttest.github.io/dll/images/logo%203.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sergeymarttest.github.io/dll/images/kara12.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sergeymarttest.github.io/dll/images/kara250x70.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sergeymarttest.github.io/dll/images/kara2284x389.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sergeymarttest.github.io/dll/images/logo%203297x246.png</image:loc>
+      <image:loc>http://sergeymarttest.github.io/dll/images/logo%204365x306.png</image:loc>
     </image:image>
   </url>
   <url>
