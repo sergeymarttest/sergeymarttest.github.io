@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517511451859">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io/dll" resolutions="1x" timestamp="1517511970162">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4023508702" ref="index"/>
@@ -6,8 +6,8 @@
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="cytellect.css" crc="22319922" ref="cytellect"/>
     <file name="nomq_cytellect.css" crc="4080441952" ref="cytellect"/>
-    <file name="kara.css" crc="3958896697" ref="kara"/>
-    <file name="nomq_kara.css" crc="91490250" ref="kara"/>
+    <file name="kara.css" crc="221139395" ref="kara"/>
+    <file name="nomq_kara.css" crc="4150959729" ref="kara"/>
   </folder>
   <folder name="fonts">
     <file name="geometria-thin.woff" crc="3976705136"/>
@@ -237,7 +237,6 @@
       <caption webpage="kara" alt=""/>
       <caption webpage="kara" alt=""/>
       <caption webpage="kara" alt=""/>
-      <caption webpage="kara" alt=""/>
     </file>
     <file name="6223436.jpg" crc="4249407623" ref="kara">
       <caption webpage="kara" alt=""/>
@@ -278,6 +277,6 @@
     <file name="index.html" crc="294217995" seo="true" mt="1517511442567" redirect="true"/>
   </folder>
   <file name="index.html" crc="90850108" seo="true" mt="1517511287860" redirect="true"/>
-  <file name="kara.html" crc="3938447121" seo="true" mt="1517511273321" redirect="true"/>
+  <file name="kara.html" crc="125255412" seo="true" mt="1517511940575" redirect="true"/>
   <file name="cytellect.html" crc="445838951" seo="true" mt="1517350149241" redirect="true"/>
 </manifest>
