@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://sergeymarttest.github.io/index.html</loc>
+    <lastmod>2018-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/double-angle-pointing-to-right.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/slideshow%20(3)-crop-u16360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/slideshow%20(1)-crop-u16594.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/slideshow%20(2)-crop-u16658.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/slideshow%20(3)-crop-u163602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/slideshow%20(1)-crop-u165942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sergeymarttest.github.io/images/slideshow%20(2)288x162.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sergeymarttest.github.io/assets/smoothscroll2.js</loc>
+    <lastmod>2017-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

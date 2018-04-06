@@ -1,0 +1,88 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1523038225399">
+  <folder name="assets">
+    <file name="smoothscroll2.js" crc="4288576285" seo="true" mt="1490169088000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-mastery.css" crc="124969627" ref="index"/>
+    <file name="nomq_preview_master_a-mastery.css" crc="4153711175" ref="index"/>
+    <file name="index.css" crc="4251628664" ref="index"/>
+    <file name="nomq_index.css" crc="4189485496" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="arte.png" crc="3807104686" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="double-angle-pointing-to-right.png" crc="4233240439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sea.jpg" crc="3852838822" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dog.jpg" crc="30804731" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23452435.jpg" crc="320781117" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2345233435.jpg" crc="206845951" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-logo-silhouette.svg" crc="422886807" ref="index"/>
+    <file name="twitter-logo-silhouette_poster_u12482.png" crc="449002279" ref="index"/>
+    <file name="facebook-logo.svg" crc="4238163440" ref="index"/>
+    <file name="facebook-logo_poster_u12411.png" crc="491601734" ref="index"/>
+    <file name="google-plus.svg" crc="485796302" ref="index"/>
+    <file name="google-plus_poster_u12432.png" crc="3759224776" ref="index"/>
+    <file name="instagram-logo.svg" crc="240585137" ref="index"/>
+    <file name="instagram-logo_poster_u12453.png" crc="4228939657" ref="index"/>
+    <file name="close.svg" crc="4211750754" ref="index"/>
+    <file name="close_poster_u12388.png" crc="209832264" ref="index"/>
+    <file name="menu-options.svg" crc="139888114" ref="index"/>
+    <file name="menu-options_poster_u12459.png" crc="447637730" ref="index"/>
+    <file name="arte-u13352-fr.png" crc="397600456" ref="index"/>
+    <file name="slideshow (3)-crop-u16360.jpg" crc="302285613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow (1)-crop-u16594.jpg" crc="4263303599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow (2)-crop-u16658.jpg" crc="3798994449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="arte-u13352-fr2.png" crc="236265504" ref="index"/>
+    <file name="slideshow (3)-crop-u163602.jpg" crc="21030557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow (1)-crop-u165942.jpg" crc="4025452633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow (2)288x162.jpg" crc="284428402" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arte-u13352-fr3.png" crc="4258359424" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4242759770" seo="true" mt="1523037943558" redirect="true"/>
+</manifest>
