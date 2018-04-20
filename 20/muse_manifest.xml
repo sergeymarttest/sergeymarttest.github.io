@@ -1,0 +1,133 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1524240586151">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="405865610" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3903537159" ref="index"/>
+    <file name="index.css" crc="4038876782" ref="index"/>
+    <file name="nomq_index.css" crc="3971243978" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u5697.png" crc="4097244409" ref="index"/>
+    <file name="u5697-r.png" crc="11875112" ref="index"/>
+    <file name="231234.jpg" crc="4165823391" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="epic transition logo closeup4 (0-00-01-07)-u5726-fr.png" crc="245928581" ref="index"/>
+    <file name="client-15b.png" crc="357843281" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client-3b-1.png" crc="4154405603" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client-4b-1.png" crc="3853179049" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client-12b.png" crc="488944244" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ff.jpg" crc="442292146" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="angel.jpg" crc="339172449" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dc.jpg" crc="261081547" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5969.png" crc="4185583560" ref="index"/>
+    <file name="u5969-r.png" crc="467769771" ref="index"/>
+    <file name="dove-2516641_1920.jpg" crc="4071140066" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5914.png" crc="522286622" ref="index"/>
+    <file name="u5914-r.png" crc="3795515740" ref="index"/>
+    <file name="110769-e1500976388279.jpg" crc="121785242" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial01.jpg" crc="3760731823" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial02.jpg" crc="3760731823" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial03.jpg" crc="3760731823" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6153-4.png" crc="231518143" ref="index"/>
+    <file name="u6133-4.png" crc="228497020" ref="index"/>
+    <file name="u5622.png" crc="4211597626" ref="index"/>
+    <file name="u5622-r.png" crc="427642783" ref="index"/>
+    <file name="u5624.png" crc="4272792608" ref="index"/>
+    <file name="u5624-r.png" crc="322326355" ref="index"/>
+    <file name="u5627.png" crc="4133156702" ref="index"/>
+    <file name="u5627-r.png" crc="4068296264" ref="index"/>
+    <file name="u5616.png" crc="42803161" ref="index"/>
+    <file name="u5616-r.png" crc="3899308638" ref="index"/>
+    <file name="u5617.png" crc="440647584" ref="index"/>
+    <file name="u5617-r.png" crc="170961891" ref="index"/>
+    <file name="u5618.png" crc="387739714" ref="index"/>
+    <file name="u5618-r.png" crc="250271157" ref="index"/>
+    <file name="transition-logo.png" crc="4275396929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u56972.png" crc="4097244409" ref="index"/>
+    <file name="u5697-r2.png" crc="11875112" ref="index"/>
+    <file name="epic transition logo closeup4 (0-00-01-07).png" crc="3973994957" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u59142.png" crc="522286622" ref="index"/>
+    <file name="u5914-r2.png" crc="3795515740" ref="index"/>
+    <file name="u59692.png" crc="4185583560" ref="index"/>
+    <file name="u5969-r2.png" crc="467769771" ref="index"/>
+    <file name="u6153-42.png" crc="231518143" ref="index"/>
+    <file name="u6133-42.png" crc="228497020" ref="index"/>
+    <file name="u6974.png" crc="3918786379" ref="index"/>
+    <file name="u6974-a.png" crc="3918786379" ref="index"/>
+    <file name="u56973.png" crc="4097244409" ref="index"/>
+    <file name="u5697-r3.png" crc="11875112" ref="index"/>
+    <file name="231234-u5727-fr.jpg" crc="205724198" ref="index"/>
+    <file name="epic transition logo closeup4 (0-00-01-07)-u5726-fr2.png" crc="74155751" ref="index"/>
+    <file name="u59143.png" crc="522286622" ref="index"/>
+    <file name="u5914-r3.png" crc="3795515740" ref="index"/>
+    <file name="u59693.png" crc="4185583560" ref="index"/>
+    <file name="u5969-r3.png" crc="467769771" ref="index"/>
+    <file name="u6153-43.png" crc="231518143" ref="index"/>
+    <file name="u6133-43.png" crc="228497020" ref="index"/>
+  </folder>
+  <file name="index.html" crc="481227055" seo="true" mt="1524240488632" redirect="true"/>
+</manifest>
