@@ -1,0 +1,160 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sergeymarttest.github.io" resolutions="1x" timestamp="1524241931299">
+  <folder name="css">
+    <file name="site_global.css" crc="3814331537"/>
+    <file name="index.css" crc="3853508234" ref="index"/>
+    <file name="nomq_index.css" crc="4225443564" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="smoothscroll.js" crc="76282303" seo="true" mt="1486029068000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pencils-762555_1920.jpg" crc="41756758" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial01.jpg" crc="3961787300" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="typewriter-801921_1920.jpg" crc="4051175905" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-text2.png" crc="3795946151" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u20766.png" crc="4211597626" ref="index"/>
+    <file name="u20766-r.png" crc="427642783" ref="index"/>
+    <file name="u20769.png" crc="4272792608" ref="index"/>
+    <file name="u20769-r.png" crc="322326355" ref="index"/>
+    <file name="u20773.png" crc="4133156702" ref="index"/>
+    <file name="u20773-r.png" crc="4068296264" ref="index"/>
+    <file name="u20761.png" crc="42803161" ref="index"/>
+    <file name="u20761-r.png" crc="3899308638" ref="index"/>
+    <file name="u20762.png" crc="440647584" ref="index"/>
+    <file name="u20762-r.png" crc="170961891" ref="index"/>
+    <file name="u20763.png" crc="387739714" ref="index"/>
+    <file name="u20763-r.png" crc="250271157" ref="index"/>
+    <file name="04.png" crc="128698584" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ff.jpg" crc="442292146" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="angel.jpg" crc="339172449" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dc.jpg" crc="261081547" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ff-u9484-fr.jpg" crc="3860792828" ref="index"/>
+    <file name="ff-u9484-r-fr.png" crc="262970390" ref="index"/>
+    <file name="angel-u10785-fr.jpg" crc="75237420" ref="index"/>
+    <file name="angel-u10785-r-fr.png" crc="3839190312" ref="index"/>
+    <file name="dc-u10799-fr.jpg" crc="3957165303" ref="index"/>
+    <file name="dc-u10799-r-fr.png" crc="4110610585" ref="index"/>
+    <file name="blog1.jpg" crc="376410914" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog1-u13234-r-fr.png" crc="4106363731" ref="index"/>
+    <file name="calendar.svg" crc="4157537196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calendar_poster_.png" crc="3859694315" ref="index"/>
+    <file name="4.jpg" crc="3973007763" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-u13532-r-fr.png" crc="3804560334" ref="index"/>
+    <file name="blog3.jpg" crc="4067793958" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog3-u13586-r-fr.png" crc="116522785" ref="index"/>
+    <file name="pencils-762555_1920-u1529-fr.jpg" crc="4141551271" ref="index"/>
+    <file name="u207662.png" crc="4211597626" ref="index"/>
+    <file name="u20766-r2.png" crc="427642783" ref="index"/>
+    <file name="u207692.png" crc="3840109792" ref="index"/>
+    <file name="u20769-r2.png" crc="447256726" ref="index"/>
+    <file name="u207732.png" crc="4133156702" ref="index"/>
+    <file name="u20773-r2.png" crc="4068296264" ref="index"/>
+    <file name="u207612.png" crc="42803161" ref="index"/>
+    <file name="u20761-r2.png" crc="3899308638" ref="index"/>
+    <file name="u207622.png" crc="440647584" ref="index"/>
+    <file name="u20762-r2.png" crc="170961891" ref="index"/>
+    <file name="u207632.png" crc="387739714" ref="index"/>
+    <file name="u20763-r2.png" crc="250271157" ref="index"/>
+    <file name="ff-u9484-fr2.jpg" crc="4195467764" ref="index"/>
+    <file name="ff-u9484-r-fr2.png" crc="404045960" ref="index"/>
+    <file name="angel-u10785-fr2.jpg" crc="349650962" ref="index"/>
+    <file name="angel-u10785-r-fr2.png" crc="510371002" ref="index"/>
+    <file name="dc-u10799-fr2.jpg" crc="209322539" ref="index"/>
+    <file name="dc-u10799-r-fr2.png" crc="3760901760" ref="index"/>
+    <file name="pencils-762555_1920-u1529-fr2.jpg" crc="524644835" ref="index"/>
+    <file name="u207733.png" crc="4133156702" ref="index"/>
+    <file name="u20773-r3.png" crc="4068296264" ref="index"/>
+    <file name="u207693.png" crc="4272792608" ref="index"/>
+    <file name="u20769-r3.png" crc="322326355" ref="index"/>
+    <file name="u207663.png" crc="4211597626" ref="index"/>
+    <file name="u20766-r3.png" crc="427642783" ref="index"/>
+    <file name="u207613.png" crc="42803161" ref="index"/>
+    <file name="u20761-r3.png" crc="3899308638" ref="index"/>
+    <file name="u207623.png" crc="440647584" ref="index"/>
+    <file name="u20762-r3.png" crc="170961891" ref="index"/>
+    <file name="u207633.png" crc="387739714" ref="index"/>
+    <file name="u20763-r3.png" crc="250271157" ref="index"/>
+    <file name="ff-u9470-fr.jpg" crc="395479375" ref="index"/>
+    <file name="angel-u10887-fr.jpg" crc="3815215835" ref="index"/>
+    <file name="dc-u10931-fr.jpg" crc="3827385438" ref="index"/>
+    <file name="blog1-u13234-fr.jpg" crc="3801761982" ref="index"/>
+    <file name="blog1-u13234-r-fr2.png" crc="4102944023" ref="index"/>
+    <file name="4-u13532-fr.jpg" crc="4146834939" ref="index"/>
+    <file name="4-u13532-r-fr2.png" crc="4291307320" ref="index"/>
+    <file name="blog3-u13586-fr.jpg" crc="127693503" ref="index"/>
+    <file name="blog3-u13586-r-fr2.png" crc="4063944604" ref="index"/>
+    <file name="typewriter-801921_1920-u12022-fr.jpg" crc="250052646" ref="index"/>
+  </folder>
+  <file name="index.html" crc="382906414" seo="true" mt="1524241764553" redirect="true"/>
+</manifest>
