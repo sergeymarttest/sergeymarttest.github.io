@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeymarttest.github.io" resolutions="1x" timestamp="1525060367605">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeymarttest.github.io" resolutions="1x" timestamp="1525062167820">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="107113554" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3971266094" ref="index"/>
-    <file name="index.css" crc="469827815" ref="index"/>
-    <file name="nomq_index.css" crc="3976347878" ref="index"/>
+    <file name="master_a-master.css" crc="4238787811" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3898051442" ref="index"/>
+    <file name="index.css" crc="65645385" ref="index"/>
+    <file name="nomq_index.css" crc="436771798" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="assets">
@@ -202,5 +202,5 @@
     <file name="u6153-44.png" crc="231518143" ref="index"/>
     <file name="u6133-44.png" crc="228497020" ref="index"/>
   </folder>
-  <file name="index.html" crc="222845965" seo="true" mt="1525060284288" redirect="true"/>
+  <file name="index.html" crc="294531100" seo="true" mt="1525062120559" redirect="true"/>
 </manifest>
