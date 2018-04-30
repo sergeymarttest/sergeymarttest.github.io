@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeymarttest.github.io" resolutions="1x" timestamp="1525059923372">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeymarttest.github.io" resolutions="1x" timestamp="1525061677968">
   <folder name="css">
     <file name="site_global.css" crc="4220180282"/>
-    <file name="index.css" crc="4152590775" ref="index"/>
-    <file name="nomq_index.css" crc="464056934" ref="index"/>
+    <file name="index.css" crc="4107986226" ref="index"/>
+    <file name="nomq_index.css" crc="343048860" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -217,5 +217,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="396293230" seo="true" mt="1525059901523" redirect="true"/>
+  <file name="index.html" crc="398740953" seo="true" mt="1525061662936" redirect="true"/>
 </manifest>
