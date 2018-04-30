@@ -1,0 +1,207 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeymarttest.github.io" resolutions="1x" timestamp="1525055976840">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4112433622" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="284249885" ref="index"/>
+    <file name="index.css" crc="1438190" ref="index"/>
+    <file name="nomq_index.css" crc="4224823515" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="статут-го-біла-птаха.pdf" crc="3950405717" seo="true" mt="1525024175000"/>
+    <file name="виписка-го-біла-птаха.pdf" crc="468170799" seo="true" mt="1525024176000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="04-u8048-fr.png" crc="4052438175" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u5697.png" crc="3854224585" ref="index"/>
+    <file name="u5697-r.png" crc="4162655085" ref="index"/>
+    <file name="udj1.png" crc="4143715328" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="udj.png" crc="4135676810" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="but1.png" crc="93531980" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="but.jpg" crc="4159831695" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blg1.png" crc="516114285" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blg.png" crc="44509615" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sl1.png" crc="292008328" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sl.png" crc="4008688898" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pm1.png" crc="3762441499" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pm.png" crc="4247522218" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bzw1.png" crc="113636806" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bzw.png" crc="200372017" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zar1.png" crc="483031276" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zar.png" crc="241645808" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="l1.png" crc="417639212" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="l.jpg" crc="3836513535" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ff.jpg" crc="42290987" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="angel.jpg" crc="421467266" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="centre.jpg" crc="306139412" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pencils-762555_1920.jpg" crc="41756758" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="фото-коршунова-ганна-степанівна.jpg" crc="3926594582" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="epic transition logo closeup4 (0-00-01-07)-u5726-fr.png" crc="245928581" ref="index"/>
+    <file name="dove-2516641_1920.jpg" crc="4071140066" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back.jpg" crc="4142665746" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="фото-коршунова-ганна-степанівна2.jpg" crc="494475128" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6153-4.png" crc="231518143" ref="index"/>
+    <file name="u6133-4.png" crc="228497020" ref="index"/>
+    <file name="u5622.png" crc="4211597626" ref="index"/>
+    <file name="u5622-r.png" crc="427642783" ref="index"/>
+    <file name="u5624.png" crc="4272792608" ref="index"/>
+    <file name="u5624-r.png" crc="322326355" ref="index"/>
+    <file name="u5627.png" crc="4133156702" ref="index"/>
+    <file name="u5627-r.png" crc="4068296264" ref="index"/>
+    <file name="u5616.png" crc="42803161" ref="index"/>
+    <file name="u5616-r.png" crc="3899308638" ref="index"/>
+    <file name="u5617.png" crc="440647584" ref="index"/>
+    <file name="u5617-r.png" crc="170961891" ref="index"/>
+    <file name="u5618.png" crc="387739714" ref="index"/>
+    <file name="u5618-r.png" crc="250271157" ref="index"/>
+    <file name="transition-logo3.png" crc="225334869" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u56972.png" crc="3854224585" ref="index"/>
+    <file name="u5697-r2.png" crc="4162655085" ref="index"/>
+    <file name="u6153-42.png" crc="231518143" ref="index"/>
+    <file name="u6133-42.png" crc="228497020" ref="index"/>
+    <file name="04.png" crc="128698584" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u56973.png" crc="3854224585" ref="index"/>
+    <file name="u5697-r3.png" crc="4162655085" ref="index"/>
+    <file name="epic transition logo closeup4 (0-00-01-07).png" crc="3973994957" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6153-43.png" crc="231518143" ref="index"/>
+    <file name="u6133-43.png" crc="228497020" ref="index"/>
+    <file name="u6974.png" crc="3918786379" ref="index"/>
+    <file name="u6974-a.png" crc="3918786379" ref="index"/>
+    <file name="transition-logo4-u9026-fr.jpg" crc="434413320" ref="index"/>
+    <file name="u56974.png" crc="3854224585" ref="index"/>
+    <file name="u5697-r4.png" crc="4162655085" ref="index"/>
+    <file name="фото-коршунова-ганна-степанівна-u5727-fr.jpg" crc="3891592229" ref="index"/>
+    <file name="epic transition logo closeup4 (0-00-01-07)-u5726-fr2.png" crc="74155751" ref="index"/>
+    <file name="u6153-44.png" crc="231518143" ref="index"/>
+    <file name="u6133-44.png" crc="228497020" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4076517799" seo="true" mt="1525054351479" redirect="true"/>
+</manifest>
