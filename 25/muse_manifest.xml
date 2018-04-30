@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeymarttest.github.io" resolutions="1x" timestamp="1525056138236">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeymarttest.github.io" resolutions="1x" timestamp="1525060367605">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="144621586" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="284249885" ref="index"/>
-    <file name="index.css" crc="228607781" ref="index"/>
-    <file name="nomq_index.css" crc="3766613359" ref="index"/>
+    <file name="master_a-master.css" crc="107113554" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3971266094" ref="index"/>
+    <file name="index.css" crc="469827815" ref="index"/>
+    <file name="nomq_index.css" crc="3976347878" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="assets">
@@ -182,8 +182,7 @@
     <file name="u5697-r2.png" crc="4162655085" ref="index"/>
     <file name="u6153-42.png" crc="231518143" ref="index"/>
     <file name="u6133-42.png" crc="228497020" ref="index"/>
-    <file name="04.png" crc="128698584" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="transition-logo4.jpg" crc="4141091256" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u56973.png" crc="3854224585" ref="index"/>
@@ -203,5 +202,5 @@
     <file name="u6153-44.png" crc="231518143" ref="index"/>
     <file name="u6133-44.png" crc="228497020" ref="index"/>
   </folder>
-  <file name="index.html" crc="118920372" seo="true" mt="1525054215941" redirect="true"/>
+  <file name="index.html" crc="222845965" seo="true" mt="1525060284288" redirect="true"/>
 </manifest>
