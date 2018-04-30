@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeymarttest.github.io" resolutions="1x" timestamp="1525055976840">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeymarttest.github.io" resolutions="1x" timestamp="1525060766380">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4112433622" ref="index"/>
+    <file name="master_a-master.css" crc="127111361" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="284249885" ref="index"/>
-    <file name="index.css" crc="1438190" ref="index"/>
-    <file name="nomq_index.css" crc="4224823515" ref="index"/>
+    <file name="index.css" crc="77022574" ref="index"/>
+    <file name="nomq_index.css" crc="4271384144" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="assets">
@@ -182,10 +182,6 @@
     <file name="u5697-r2.png" crc="4162655085" ref="index"/>
     <file name="u6153-42.png" crc="231518143" ref="index"/>
     <file name="u6133-42.png" crc="228497020" ref="index"/>
-    <file name="04.png" crc="128698584" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u56973.png" crc="3854224585" ref="index"/>
     <file name="u5697-r3.png" crc="4162655085" ref="index"/>
     <file name="epic transition logo closeup4 (0-00-01-07).png" crc="3973994957" ref="index">
@@ -202,6 +198,9 @@
     <file name="epic transition logo closeup4 (0-00-01-07)-u5726-fr2.png" crc="74155751" ref="index"/>
     <file name="u6153-44.png" crc="231518143" ref="index"/>
     <file name="u6133-44.png" crc="228497020" ref="index"/>
+    <file name="transition-logo4.jpg" crc="4141091256" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4076517799" seo="true" mt="1525054351479" redirect="true"/>
+  <file name="index.html" crc="21330739" seo="true" mt="1525060724496" redirect="true"/>
 </manifest>
