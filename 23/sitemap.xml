@@ -2,20 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sergeymarttest.github.io/index.html</loc>
-    <lastmod>2018-04-30</lastmod>
+    <lastmod>2018-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://sergeymarttest.github.io/images/oh3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeymarttest.github.io/images/nau.png</image:loc>
-    </image:image>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://sergeymarttest.github.io/phone/index.html"/>
     <image:image>
       <image:loc>https://sergeymarttest.github.io/images/eco.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://sergeymarttest.github.io/images/oh3.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://sergeymarttest.github.io/images/helping-hand.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeymarttest.github.io/images/nau.png</image:loc>
     </image:image>
   </url>
   <url>

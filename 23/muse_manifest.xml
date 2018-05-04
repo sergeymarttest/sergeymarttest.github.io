@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeymarttest.github.io" resolutions="1x" timestamp="1525061677968">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeymarttest.github.io" resolutions="1x" timestamp="1525435969511">
   <folder name="css">
     <file name="site_global.css" crc="4220180282"/>
-    <file name="index.css" crc="4107986226" ref="index"/>
-    <file name="nomq_index.css" crc="343048860" ref="index"/>
+    <file name="index.css" crc="105712139" ref="index"/>
+    <file name="nomq_index.css" crc="39038887" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -19,27 +19,27 @@
     <file name="фонд-статут.pdf" crc="3808512384" seo="true" mt="1525035105000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="slide1.jpg" crc="60264984" ref="index">
+    <file name="slide1.jpg" crc="60264984" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dot-pattern.png" crc="398650014" ref="index">
+    <file name="dot-pattern.png" crc="398650014" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -50,39 +50,54 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="logoffwhite2.png" crc="137795449" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="oh3.png" crc="4187788246" seo="true" ref="index">
+    <file name="logoffwhite2.png" crc="137795449" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="nau.png" crc="308289655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eco.png" crc="4023859679" seo="true" ref="index">
+    <file name="eco.png" crc="4023859679" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="helping-hand.png" crc="72178750" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="balloon-3206530_1920.jpg" crc="32768853" ref="index">
+    <file name="oh3.png" crc="4187788246" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dog.jpg" crc="30804731" ref="index">
+    <file name="helping-hand.png" crc="72178750" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sea.jpg" crc="3852838822" ref="index">
+    <file name="nau.png" crc="308289655" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="orange.jpg" crc="4168281502" ref="index">
+    <file name="balloon-3206530_1920.jpg" crc="32768853" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="orange.jpg" crc="4168281502" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dog.jpg" crc="30804731" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sea.jpg" crc="3852838822" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2.png" crc="207698093" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="u21210.png" crc="4074703413" ref="phone>index"/>
+    <file name="u21210-r.png" crc="255197762" ref="phone>index"/>
+    <file name="u21210-a.png" crc="255197762" ref="phone>index"/>
     <file name="udj1.png" crc="4143715328" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -155,15 +170,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2.jpg" crc="318488424" ref="index">
+    <file name="2.jpg" crc="4003666800" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u19864-4.png" crc="460455914" ref="index"/>
-    <file name="3.jpg" crc="385065117" ref="index">
+    <file name="3.jpg" crc="3865325905" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u19797-4.png" crc="460455914" ref="index"/>
-    <file name="4.jpg" crc="4199288161" ref="index">
+    <file name="4.jpg" crc="151689221" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u19780-4.png" crc="460455914" ref="index"/>
@@ -171,7 +186,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u19727-4.png" crc="460455914" ref="index"/>
-    <file name="6.jpg" crc="4003666800" ref="index">
+    <file name="6.jpg" crc="318488424" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u19815-4.png" crc="460455914" ref="index"/>
@@ -199,9 +214,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="статья 1 мама саммит-u2375-fr.jpg" crc="4080393988" ref="index"/>
-    <file name="logo2.png" crc="207698093" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="slide1-u75-fr.jpg" crc="3849126166" ref="index"/>
     <file name="balloon-3206530_1920-u471-fr.jpg" crc="3991418066" ref="index"/>
     <file name="u1813-4.png" crc="460455914" ref="index"/>
@@ -215,7 +227,14 @@
     <file name="статья 1 мама саммит.jpg" crc="3791154719" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="398740953" seo="true" mt="1525061662936" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="120672868" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="146140064" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4153194224" seo="true" mt="1525435357653" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="57605692" seo="true" mt="1525435141274" redirect="true"/>
 </manifest>
